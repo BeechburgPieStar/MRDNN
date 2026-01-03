@@ -1,10 +1,2 @@
 # Code for "Multi-Resolution Dynamic Neural Network for Power Amplifier Behavioral Modeling"
 
-Behavioral modeling of nonlinear power amplifiers (PAs) is a critical issue in modern communication systems. In the 5G era, the demand for high accuracy and strong adaptability has become increasingly urgent due to complex and dynamic signal environments. However, existing methods remain insufficient in effectively addressing such complexity and dynamics. To overcome such limitations, this paper introduces a bio-inspired multi-resolution dynamic Neural Network (MRDNN) designed to ensure strong robustness and generalization under complex signal conditions. Specially, the proposed MRDNN, inspired by the adaptive capabilities of biological systems, integrates a parallel multi-resolution fusion module and a dynamic modulation module. Specially, the former can capture nonlinear signal relationships by fusing local and global features, while the latter, grounded in liquid neural network (LNN), can adaptively track rapid environmental variations. Experimental results demonstrate that MRDNN achieves an average mean squared error (MSE) of –25.96 dB and an adjacent channel error power ratio (ACEPR) of –43.3 dB across multiple datasets, significantly improving upon existing methods.
-
-# NMSE
-<img width="1145" height="837" alt="NMSE" src="https://github.com/user-attachments/assets/17afbe34-356b-4415-96bc-1cc79003f190" />
-
-# ACEPR
-<img width="1142" height="839" alt="ACEPR" src="https://github.com/user-attachments/assets/b3977086-d614-4bf0-866b-438d4c315005" />
-
