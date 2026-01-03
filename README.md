@@ -27,7 +27,7 @@ The proposed framework focuses not only on time domain modeling accuracy but als
 
 The main structure of this repository is as follows:
 
-'''
+```
 MRDNN/
 ├── Datasets/ # Dataset related files
 ├── Model/ # MRDNN model definitions
@@ -42,4 +42,4 @@ MRDNN/
 ├── flops.py # FLOPs and complexity analysis
 ├── pytorchtools.py # PyTorch utility functions
 └── README.md
-'''
+```
