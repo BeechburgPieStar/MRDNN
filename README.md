@@ -25,7 +25,7 @@ The proposed framework focuses not only on time domain modeling accuracy but als
 
 ## Repository Structure
 
-The main structure of this repository is as follows:
+The above code repository implements the complete experimental configuration and result reproduction pipeline corresponding to **MRDNN with GMP** reported in Table V of the paper. The main structure of this repository is as follows:
 
 ```
 MRDNN/
@@ -43,6 +43,7 @@ MRDNN/
 ├── pytorchtools.py # PyTorch utility functions
 └── README.md
 ```
+
 ## How to run?
 
 ```
