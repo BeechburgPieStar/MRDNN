@@ -10,7 +10,7 @@ All source code, trained model weights, and training logs are publicly available
 
 ---
 
-## 1. Overview
+## Overview
 
 Power amplifiers in wideband wireless communication systems exhibit strong nonlinearity and memory effects, leading to spectral regrowth and adjacent channel interference. Although deep learning based behavioral models have achieved promising accuracy, their robustness and adaptability under dynamic signal conditions remain challenging.
 
@@ -23,19 +23,19 @@ The proposed framework focuses not only on time domain modeling accuracy but als
 
 ---
 
-## 2. Repository Structure
+## Repository Structure
 
 The main structure of this repository is as follows:
 
 ```
 MRDNN/
-├── Datasets/ # Dataset related files
-├── Model/ # MRDNN model definitions
+├── Datasets/ # Dataset from (https://github.com/ITU-AI-ML-in-5G-Challenge/Team-MLAP-solution-for-ML5G-PS-007-Non-linear-Power-Amplifier-Behavioral-Modeling)
+├── Model/ # MRDNN model
 ├── data_save/ # Saved intermediate data and outputs
-├── logs/ # Training logs
+├── logs/ # Training logs and losses
 ├── model_save/ # Trained model weights
 ├── main.py # Training entry script
-├── Evaluation.py # Evaluation script
+├── Evaluation.py # Evaluation tools, including NMSE and ACEPR
 ├── Parameter.py # Hyperparameter configuration
 ├── data_processing.py # Data preprocessing
 ├── load_dataset.py # Dataset loading utilities
@@ -43,3 +43,21 @@ MRDNN/
 ├── pytorchtools.py # PyTorch utility functions
 └── README.md
 ```
+## How to run?
+
+```
+python main.py
+```
+
+## Requirenment
+
+This implementation is based on PyTorch and additionally relies on the [ncps](https://pypi.org/project/ncps/) library for Liquid Neural Network.
+
+## License / 许可证
+
+```
+本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
+
+This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
+```
+
