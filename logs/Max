@@ -1,0 +1,7529 @@
+Epoch: 1
+val_loss imporved from inf to 0.039410930198246305.
+
+time = 29.6 s - train_loss = 0.039410930198246305. 
+
+Epoch: 2
+val_loss imporved from 0.039410930198246305 to 0.008084446081189111.
+
+time = 29.7 s - train_loss = 0.008084446081189111. 
+
+Epoch: 3
+val_loss imporved from 0.008084446081189111 to 0.0004127848617100023.
+
+time = 29.7 s - train_loss = 0.0004127848617100023. 
+
+Epoch: 4
+val_loss imporved from 0.0004127848617100023 to 0.00023636120743283445.
+
+time = 29.7 s - train_loss = 0.00023636120743283445. 
+
+Epoch: 5
+val_loss imporved from 0.00023636120743283445 to 0.0001797397742285844.
+
+time = 29.7 s - train_loss = 0.0001797397742285844. 
+
+Epoch: 6
+val_loss imporved from 0.0001797397742285844 to 0.00015318045597291594.
+
+time = 29.6 s - train_loss = 0.00015318045597291594. 
+
+Epoch: 7
+val_loss imporved from 0.00015318045597291594 to 0.0001427135248276117.
+
+time = 29.7 s - train_loss = 0.0001427135248276117. 
+
+Epoch: 8
+val_loss imporved from 0.0001427135248276117 to 0.00013110389375933437.
+
+time = 29.6 s - train_loss = 0.00013110389375933437. 
+
+Epoch: 9
+val_loss imporved from 0.00013110389375933437 to 0.00012308370330369584.
+
+time = 29.6 s - train_loss = 0.00012308370330369584. 
+
+Epoch: 10
+val_loss imporved from 0.00012308370330369584 to 0.00011963562390210579.
+
+time = 29.6 s - train_loss = 0.00011963562390210579. 
+
+Epoch: 11
+val_loss imporved from 0.00011963562390210579 to 0.00011270182413304572.
+
+time = 29.7 s - train_loss = 0.00011270182413304572. 
+
+Epoch: 12
+val_loss imporved from 0.00011270182413304572 to 0.00010922097423637427.
+
+time = 29.6 s - train_loss = 0.00010922097423637427. 
+
+Epoch: 13
+val_loss imporved from 0.00010922097423637427 to 0.000105931979095478.
+
+time = 29.7 s - train_loss = 0.000105931979095478. 
+
+Epoch: 14
+val_loss did not improve from 0.000105931979095478.
+
+time = 29.7 s - train_loss = 0.000106170517061593. 
+
+Epoch: 15
+val_loss imporved from 0.000105931979095478 to 0.00010058888802989493.
+
+time = 29.7 s - train_loss = 0.00010058888802989493. 
+
+Epoch: 16
+val_loss did not improve from 0.00010058888802989493.
+
+time = 29.7 s - train_loss = 0.00010184162371657892. 
+
+Epoch: 17
+val_loss imporved from 0.00010058888802989493 to 9.857042523359664e-05.
+
+time = 29.7 s - train_loss = 9.857042523359664e-05. 
+
+Epoch: 18
+val_loss did not improve from 9.857042523359664e-05.
+
+time = 29.6 s - train_loss = 9.953662143758914e-05. 
+
+Epoch: 19
+val_loss imporved from 9.857042523359664e-05 to 9.631941668589293e-05.
+
+time = 29.7 s - train_loss = 9.631941668589293e-05. 
+
+Epoch: 20
+val_loss did not improve from 9.631941668589293e-05.
+
+time = 29.7 s - train_loss = 9.731049662185794e-05. 
+
+Epoch: 21
+val_loss did not improve from 9.631941668589293e-05.
+
+time = 29.6 s - train_loss = 9.673402830159836e-05. 
+
+Epoch: 22
+val_loss imporved from 9.631941668589293e-05 to 9.383036523866795e-05.
+
+time = 29.7 s - train_loss = 9.383036523866795e-05. 
+
+Epoch: 23
+val_loss imporved from 9.383036523866795e-05 to 9.303713515114307e-05.
+
+time = 29.7 s - train_loss = 9.303713515114307e-05. 
+
+Epoch: 24
+val_loss imporved from 9.303713515114307e-05 to 9.023459644803017e-05.
+
+time = 29.7 s - train_loss = 9.023459644803017e-05. 
+
+Epoch: 25
+val_loss imporved from 9.023459644803017e-05 to 8.983621089929205e-05.
+
+time = 29.7 s - train_loss = 8.983621089929205e-05. 
+
+Epoch: 26
+val_loss imporved from 8.983621089929205e-05 to 8.914334496321798e-05.
+
+time = 29.7 s - train_loss = 8.914334496321798e-05. 
+
+Epoch: 27
+val_loss imporved from 8.914334496321798e-05 to 8.722803799842382e-05.
+
+time = 29.7 s - train_loss = 8.722803799842382e-05. 
+
+Epoch: 28
+val_loss imporved from 8.722803799842382e-05 to 8.635843956365035e-05.
+
+time = 29.7 s - train_loss = 8.635843956365035e-05. 
+
+Epoch: 29
+val_loss imporved from 8.635843956365035e-05 to 8.571182487100073e-05.
+
+time = 29.8 s - train_loss = 8.571182487100073e-05. 
+
+Epoch: 30
+val_loss imporved from 8.571182487100073e-05 to 8.468530745694477e-05.
+
+time = 29.7 s - train_loss = 8.468530745694477e-05. 
+
+Epoch: 31
+val_loss imporved from 8.468530745694477e-05 to 8.345192686381343e-05.
+
+time = 29.6 s - train_loss = 8.345192686381343e-05. 
+
+Epoch: 32
+val_loss imporved from 8.345192686381343e-05 to 8.269936305215681e-05.
+
+time = 29.7 s - train_loss = 8.269936305215681e-05. 
+
+Epoch: 33
+val_loss imporved from 8.269936305215681e-05 to 8.154533856097138e-05.
+
+time = 29.7 s - train_loss = 8.154533856097138e-05. 
+
+Epoch: 34
+val_loss imporved from 8.154533856097138e-05 to 8.1032600480125e-05.
+
+time = 29.7 s - train_loss = 8.1032600480125e-05. 
+
+Epoch: 35
+val_loss imporved from 8.1032600480125e-05 to 8.018325046537422e-05.
+
+time = 29.7 s - train_loss = 8.018325046537422e-05. 
+
+Epoch: 36
+val_loss imporved from 8.018325046537422e-05 to 7.919184628314767e-05.
+
+time = 29.6 s - train_loss = 7.919184628314767e-05. 
+
+Epoch: 37
+val_loss imporved from 7.919184628314767e-05 to 7.79236111954958e-05.
+
+time = 29.7 s - train_loss = 7.79236111954958e-05. 
+
+Epoch: 38
+val_loss imporved from 7.79236111954958e-05 to 7.73347876709213e-05.
+
+time = 29.7 s - train_loss = 7.73347876709213e-05. 
+
+Epoch: 39
+val_loss imporved from 7.73347876709213e-05 to 7.649355615548933e-05.
+
+time = 29.7 s - train_loss = 7.649355615548933e-05. 
+
+Epoch: 40
+val_loss imporved from 7.649355615548933e-05 to 7.548916993075895e-05.
+
+time = 29.6 s - train_loss = 7.548916993075895e-05. 
+
+Epoch: 41
+val_loss imporved from 7.548916993075895e-05 to 7.511896003513324e-05.
+
+time = 29.7 s - train_loss = 7.511896003513324e-05. 
+
+Epoch: 42
+val_loss imporved from 7.511896003513324e-05 to 7.388381428252433e-05.
+
+time = 29.7 s - train_loss = 7.388381428252433e-05. 
+
+Epoch: 43
+val_loss imporved from 7.388381428252433e-05 to 7.385527362689408e-05.
+
+time = 29.7 s - train_loss = 7.385527362689408e-05. 
+
+Epoch: 44
+val_loss imporved from 7.385527362689408e-05 to 7.221256110573663e-05.
+
+time = 29.6 s - train_loss = 7.221256110573663e-05. 
+
+Epoch: 45
+val_loss imporved from 7.221256110573663e-05 to 7.184619541874168e-05.
+
+time = 29.7 s - train_loss = 7.184619541874168e-05. 
+
+Epoch: 46
+val_loss imporved from 7.184619541874168e-05 to 7.091206049396905e-05.
+
+time = 29.6 s - train_loss = 7.091206049396905e-05. 
+
+Epoch: 47
+val_loss imporved from 7.091206049396905e-05 to 7.059738563560672e-05.
+
+time = 29.7 s - train_loss = 7.059738563560672e-05. 
+
+Epoch: 48
+val_loss imporved from 7.059738563560672e-05 to 6.966879297140718e-05.
+
+time = 29.7 s - train_loss = 6.966879297140718e-05. 
+
+Epoch: 49
+val_loss imporved from 6.966879297140718e-05 to 6.910227706166323e-05.
+
+time = 29.7 s - train_loss = 6.910227706166323e-05. 
+
+Epoch: 50
+val_loss imporved from 6.910227706166323e-05 to 6.782425217810832e-05.
+
+time = 29.6 s - train_loss = 6.782425217810832e-05. 
+
+Epoch: 51
+val_loss imporved from 6.782425217810832e-05 to 6.747446666059585e-05.
+
+time = 29.7 s - train_loss = 6.747446666059585e-05. 
+
+Epoch: 52
+val_loss imporved from 6.747446666059585e-05 to 6.670062476944402e-05.
+
+time = 29.6 s - train_loss = 6.670062476944402e-05. 
+
+Epoch: 53
+val_loss imporved from 6.670062476944402e-05 to 6.588317253007312e-05.
+
+time = 29.7 s - train_loss = 6.588317253007312e-05. 
+
+Epoch: 54
+val_loss imporved from 6.588317253007312e-05 to 6.522204513433718e-05.
+
+time = 29.6 s - train_loss = 6.522204513433718e-05. 
+
+Epoch: 55
+val_loss imporved from 6.522204513433718e-05 to 6.439650414676456e-05.
+
+time = 29.6 s - train_loss = 6.439650414676456e-05. 
+
+Epoch: 56
+val_loss imporved from 6.439650414676456e-05 to 6.379320063431217e-05.
+
+time = 29.7 s - train_loss = 6.379320063431217e-05. 
+
+Epoch: 57
+val_loss imporved from 6.379320063431217e-05 to 6.314902695830672e-05.
+
+time = 29.7 s - train_loss = 6.314902695830672e-05. 
+
+Epoch: 58
+val_loss imporved from 6.314902695830672e-05 to 6.238263998368546e-05.
+
+time = 29.7 s - train_loss = 6.238263998368546e-05. 
+
+Epoch: 59
+val_loss imporved from 6.238263998368546e-05 to 6.1868731430026e-05.
+
+time = 29.7 s - train_loss = 6.1868731430026e-05. 
+
+Epoch: 60
+val_loss imporved from 6.1868731430026e-05 to 6.120340863783396e-05.
+
+time = 29.7 s - train_loss = 6.120340863783396e-05. 
+
+Epoch: 61
+val_loss imporved from 6.120340863783396e-05 to 6.0447440421570144e-05.
+
+time = 29.6 s - train_loss = 6.0447440421570144e-05. 
+
+Epoch: 62
+val_loss imporved from 6.0447440421570144e-05 to 5.978725439971866e-05.
+
+time = 29.7 s - train_loss = 5.978725439971866e-05. 
+
+Epoch: 63
+val_loss imporved from 5.978725439971866e-05 to 5.9135497018679396e-05.
+
+time = 29.7 s - train_loss = 5.9135497018679396e-05. 
+
+Epoch: 64
+val_loss imporved from 5.9135497018679396e-05 to 5.869122678328257e-05.
+
+time = 29.6 s - train_loss = 5.869122678328257e-05. 
+
+Epoch: 65
+val_loss imporved from 5.869122678328257e-05 to 5.824985131498338e-05.
+
+time = 29.5 s - train_loss = 5.824985131498338e-05. 
+
+Epoch: 66
+val_loss imporved from 5.824985131498338e-05 to 5.719603422928375e-05.
+
+time = 29.7 s - train_loss = 5.719603422928375e-05. 
+
+Epoch: 67
+val_loss imporved from 5.719603422928375e-05 to 5.6892286882627805e-05.
+
+time = 29.7 s - train_loss = 5.6892286882627805e-05. 
+
+Epoch: 68
+val_loss imporved from 5.6892286882627805e-05 to 5.6424486015367675e-05.
+
+time = 29.7 s - train_loss = 5.6424486015367675e-05. 
+
+Epoch: 69
+val_loss imporved from 5.6424486015367675e-05 to 5.573331114915404e-05.
+
+time = 29.6 s - train_loss = 5.573331114915404e-05. 
+
+Epoch: 70
+val_loss imporved from 5.573331114915404e-05 to 5.537028698242788e-05.
+
+time = 29.7 s - train_loss = 5.537028698242788e-05. 
+
+Epoch: 71
+val_loss imporved from 5.537028698242788e-05 to 5.454065772496797e-05.
+
+time = 29.6 s - train_loss = 5.454065772496797e-05. 
+
+Epoch: 72
+val_loss did not improve from 5.454065772496797e-05.
+
+time = 29.7 s - train_loss = 5.457576232546466e-05. 
+
+Epoch: 73
+val_loss imporved from 5.454065772496797e-05 to 5.369088897150961e-05.
+
+time = 29.6 s - train_loss = 5.369088897150961e-05. 
+
+Epoch: 74
+val_loss imporved from 5.369088897150961e-05 to 5.3404372540328676e-05.
+
+time = 29.7 s - train_loss = 5.3404372540328676e-05. 
+
+Epoch: 75
+val_loss imporved from 5.3404372540328676e-05 to 5.28076478869358e-05.
+
+time = 29.6 s - train_loss = 5.28076478869358e-05. 
+
+Epoch: 76
+val_loss imporved from 5.28076478869358e-05 to 5.25883723181161e-05.
+
+time = 29.7 s - train_loss = 5.25883723181161e-05. 
+
+Epoch: 77
+val_loss imporved from 5.25883723181161e-05 to 5.1914768563997354e-05.
+
+time = 29.7 s - train_loss = 5.1914768563997354e-05. 
+
+Epoch: 78
+val_loss imporved from 5.1914768563997354e-05 to 5.178988801509709e-05.
+
+time = 29.7 s - train_loss = 5.178988801509709e-05. 
+
+Epoch: 79
+val_loss imporved from 5.178988801509709e-05 to 5.110767642184234e-05.
+
+time = 29.6 s - train_loss = 5.110767642184234e-05. 
+
+Epoch: 80
+val_loss did not improve from 5.110767642184234e-05.
+
+time = 29.6 s - train_loss = 5.129373706301438e-05. 
+
+Epoch: 81
+val_loss imporved from 5.110767642184234e-05 to 5.050062256618591e-05.
+
+time = 29.7 s - train_loss = 5.050062256618591e-05. 
+
+Epoch: 82
+val_loss imporved from 5.050062256618591e-05 to 5.045529251422378e-05.
+
+time = 29.7 s - train_loss = 5.045529251422378e-05. 
+
+Epoch: 83
+val_loss imporved from 5.045529251422378e-05 to 5.004519198843903e-05.
+
+time = 29.6 s - train_loss = 5.004519198843903e-05. 
+
+Epoch: 84
+val_loss imporved from 5.004519198843903e-05 to 4.9638646020023244e-05.
+
+time = 29.6 s - train_loss = 4.9638646020023244e-05. 
+
+Epoch: 85
+val_loss did not improve from 4.9638646020023244e-05.
+
+time = 29.6 s - train_loss = 4.967151325215322e-05. 
+
+Epoch: 86
+val_loss imporved from 4.9638646020023244e-05 to 4.876970762632882e-05.
+
+time = 29.7 s - train_loss = 4.876970762632882e-05. 
+
+Epoch: 87
+val_loss did not improve from 4.876970762632882e-05.
+
+time = 29.7 s - train_loss = 4.8927798356530435e-05. 
+
+Epoch: 88
+val_loss imporved from 4.876970762632882e-05 to 4.848267614500484e-05.
+
+time = 29.7 s - train_loss = 4.848267614500484e-05. 
+
+Epoch: 89
+val_loss did not improve from 4.848267614500484e-05.
+
+time = 29.6 s - train_loss = 4.8502481220561484e-05. 
+
+Epoch: 90
+val_loss imporved from 4.848267614500484e-05 to 4.796767972167856e-05.
+
+time = 29.7 s - train_loss = 4.796767972167856e-05. 
+
+Epoch: 91
+val_loss imporved from 4.796767972167856e-05 to 4.784384050367724e-05.
+
+time = 29.9 s - train_loss = 4.784384050367724e-05. 
+
+Epoch: 92
+val_loss imporved from 4.784384050367724e-05 to 4.750055140041627e-05.
+
+time = 29.7 s - train_loss = 4.750055140041627e-05. 
+
+Epoch: 93
+val_loss did not improve from 4.750055140041627e-05.
+
+time = 29.7 s - train_loss = 4.754448711593142e-05. 
+
+Epoch: 94
+val_loss imporved from 4.750055140041627e-05 to 4.7346534300784006e-05.
+
+time = 29.7 s - train_loss = 4.7346534300784006e-05. 
+
+Epoch: 95
+val_loss imporved from 4.7346534300784006e-05 to 4.69741910561313e-05.
+
+time = 29.8 s - train_loss = 4.69741910561313e-05. 
+
+Epoch: 96
+val_loss imporved from 4.69741910561313e-05 to 4.667625194531379e-05.
+
+time = 29.8 s - train_loss = 4.667625194531379e-05. 
+
+Epoch: 97
+val_loss imporved from 4.667625194531379e-05 to 4.66564351729966e-05.
+
+time = 29.6 s - train_loss = 4.66564351729966e-05. 
+
+Epoch: 98
+val_loss imporved from 4.66564351729966e-05 to 4.627703821424701e-05.
+
+time = 29.9 s - train_loss = 4.627703821424701e-05. 
+
+Epoch: 99
+val_loss imporved from 4.627703821424701e-05 to 4.612464205584681e-05.
+
+time = 31.1 s - train_loss = 4.612464205584681e-05. 
+
+Epoch: 100
+val_loss did not improve from 4.612464205584681e-05.
+
+time = 31.1 s - train_loss = 4.619756260241721e-05. 
+
+Epoch: 101
+val_loss imporved from 4.612464205584681e-05 to 4.574025894059932e-05.
+
+time = 31.0 s - train_loss = 4.574025894059932e-05. 
+
+Epoch: 102
+val_loss did not improve from 4.574025894059932e-05.
+
+time = 31.3 s - train_loss = 4.574522047360487e-05. 
+
+Epoch: 103
+val_loss imporved from 4.574025894059932e-05 to 4.552143877021724e-05.
+
+time = 29.9 s - train_loss = 4.552143877021724e-05. 
+
+Epoch: 104
+val_loss did not improve from 4.552143877021724e-05.
+
+time = 29.6 s - train_loss = 4.556418827283414e-05. 
+
+Epoch: 105
+val_loss imporved from 4.552143877021724e-05 to 4.527035522151894e-05.
+
+time = 29.6 s - train_loss = 4.527035522151894e-05. 
+
+Epoch: 106
+val_loss did not improve from 4.527035522151894e-05.
+
+time = 29.6 s - train_loss = 4.5430950511390086e-05. 
+
+Epoch: 107
+val_loss did not improve from 4.527035522151894e-05.
+
+time = 29.6 s - train_loss = 4.529802348045762e-05. 
+
+Epoch: 108
+val_loss did not improve from 4.527035522151894e-05.
+
+time = 29.6 s - train_loss = 4.548616875442164e-05. 
+
+Epoch: 109
+val_loss imporved from 4.527035522151894e-05 to 4.5039378762686844e-05.
+
+time = 29.6 s - train_loss = 4.5039378762686844e-05. 
+
+Epoch: 110
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.7 s - train_loss = 4.508790505770626e-05. 
+
+Epoch: 111
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.6 s - train_loss = 4.5187983225008294e-05. 
+
+Epoch: 112
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.7 s - train_loss = 4.5317883619711593e-05. 
+
+Epoch: 113
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.6 s - train_loss = 4.5864126361803325e-05. 
+
+Epoch: 114
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.7 s - train_loss = 4.5627310383301806e-05. 
+
+Epoch: 115
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.7 s - train_loss = 4.553902163480773e-05. 
+
+Epoch: 116
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.6 s - train_loss = 4.5361585294879134e-05. 
+
+Epoch: 117
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.7 s - train_loss = 4.5348323141940927e-05. 
+
+Epoch: 118
+val_loss did not improve from 4.5039378762686844e-05.
+
+time = 29.5 s - train_loss = 4.556106741270052e-05. 
+
+Epoch: 119
+val_loss imporved from 4.5039378762686844e-05 to 4.5016531039740824e-05.
+
+time = 29.6 s - train_loss = 4.5016531039740824e-05. 
+
+Epoch: 120
+val_loss imporved from 4.5016531039740824e-05 to 4.501463903741999e-05.
+
+time = 29.7 s - train_loss = 4.501463903741999e-05. 
+
+Epoch: 121
+val_loss imporved from 4.501463903741999e-05 to 4.4822023503260534e-05.
+
+time = 29.7 s - train_loss = 4.4822023503260534e-05. 
+
+Epoch: 122
+val_loss did not improve from 4.4822023503260534e-05.
+
+time = 29.7 s - train_loss = 4.484715151942976e-05. 
+
+Epoch: 123
+val_loss did not improve from 4.4822023503260534e-05.
+
+time = 29.6 s - train_loss = 4.4909085405470503e-05. 
+
+Epoch: 124
+val_loss imporved from 4.4822023503260534e-05 to 4.472801699338356e-05.
+
+time = 29.6 s - train_loss = 4.472801699338356e-05. 
+
+Epoch: 125
+val_loss imporved from 4.472801699338356e-05 to 4.467558263763179e-05.
+
+time = 29.5 s - train_loss = 4.467558263763179e-05. 
+
+Epoch: 126
+val_loss imporved from 4.467558263763179e-05 to 4.4414304002937385e-05.
+
+time = 29.7 s - train_loss = 4.4414304002937385e-05. 
+
+Epoch: 127
+val_loss imporved from 4.4414304002937385e-05 to 4.424262590323945e-05.
+
+time = 29.8 s - train_loss = 4.424262590323945e-05. 
+
+Epoch: 128
+val_loss imporved from 4.424262590323945e-05 to 4.420168269003463e-05.
+
+time = 29.7 s - train_loss = 4.420168269003463e-05. 
+
+Epoch: 129
+val_loss imporved from 4.420168269003463e-05 to 4.3702140388013805e-05.
+
+time = 29.7 s - train_loss = 4.3702140388013805e-05. 
+
+Epoch: 130
+val_loss imporved from 4.3702140388013805e-05 to 4.3686712587586345e-05.
+
+time = 29.7 s - train_loss = 4.3686712587586345e-05. 
+
+Epoch: 131
+val_loss imporved from 4.3686712587586345e-05 to 4.361654331822386e-05.
+
+time = 29.6 s - train_loss = 4.361654331822386e-05. 
+
+Epoch: 132
+val_loss did not improve from 4.361654331822386e-05.
+
+time = 29.6 s - train_loss = 4.361937201395153e-05. 
+
+Epoch: 133
+val_loss imporved from 4.361654331822386e-05 to 4.351275749063347e-05.
+
+time = 29.8 s - train_loss = 4.351275749063347e-05. 
+
+Epoch: 134
+val_loss did not improve from 4.351275749063347e-05.
+
+time = 29.5 s - train_loss = 4.3697448607590025e-05. 
+
+Epoch: 135
+val_loss imporved from 4.351275749063347e-05 to 4.3206415371427194e-05.
+
+time = 29.7 s - train_loss = 4.3206415371427194e-05. 
+
+Epoch: 136
+val_loss did not improve from 4.3206415371427194e-05.
+
+time = 29.6 s - train_loss = 4.358093058759743e-05. 
+
+Epoch: 137
+val_loss did not improve from 4.3206415371427194e-05.
+
+time = 29.6 s - train_loss = 4.350592854269833e-05. 
+
+Epoch: 138
+val_loss did not improve from 4.3206415371427194e-05.
+
+time = 29.6 s - train_loss = 4.3334985090512514e-05. 
+
+Epoch: 139
+val_loss did not improve from 4.3206415371427194e-05.
+
+time = 29.6 s - train_loss = 4.356112755777051e-05. 
+
+Epoch: 140
+val_loss imporved from 4.3206415371427194e-05 to 4.308346773184205e-05.
+
+time = 29.7 s - train_loss = 4.308346773184205e-05. 
+
+Epoch: 141
+val_loss imporved from 4.308346773184205e-05 to 4.2880617303559414e-05.
+
+time = 29.8 s - train_loss = 4.2880617303559414e-05. 
+
+Epoch: 142
+val_loss imporved from 4.2880617303559414e-05 to 4.25631729730283e-05.
+
+time = 29.8 s - train_loss = 4.25631729730283e-05. 
+
+Epoch: 143
+val_loss imporved from 4.25631729730283e-05 to 4.232897549817529e-05.
+
+time = 29.7 s - train_loss = 4.232897549817529e-05. 
+
+Epoch: 144
+val_loss did not improve from 4.232897549817529e-05.
+
+time = 30.1 s - train_loss = 4.251797283060395e-05. 
+
+Epoch: 145
+val_loss imporved from 4.232897549817529e-05 to 4.2179139887203774e-05.
+
+time = 30.0 s - train_loss = 4.2179139887203774e-05. 
+
+Epoch: 146
+val_loss imporved from 4.2179139887203774e-05 to 4.206813845419289e-05.
+
+time = 30.1 s - train_loss = 4.206813845419289e-05. 
+
+Epoch: 147
+val_loss imporved from 4.206813845419289e-05 to 4.200497452786958e-05.
+
+time = 29.7 s - train_loss = 4.200497452786958e-05. 
+
+Epoch: 148
+val_loss imporved from 4.200497452786958e-05 to 4.15639683334199e-05.
+
+time = 30.0 s - train_loss = 4.15639683334199e-05. 
+
+Epoch: 149
+val_loss imporved from 4.15639683334199e-05 to 4.152329682352365e-05.
+
+time = 29.6 s - train_loss = 4.152329682352365e-05. 
+
+Epoch: 150
+val_loss imporved from 4.152329682352365e-05 to 4.132762461827587e-05.
+
+time = 29.7 s - train_loss = 4.132762461827587e-05. 
+
+Epoch: 151
+val_loss imporved from 4.132762461827587e-05 to 4.125816713872091e-05.
+
+time = 29.9 s - train_loss = 4.125816713872091e-05. 
+
+Epoch: 152
+val_loss imporved from 4.125816713872091e-05 to 4.106006677579202e-05.
+
+time = 29.9 s - train_loss = 4.106006677579202e-05. 
+
+Epoch: 153
+val_loss did not improve from 4.106006677579202e-05.
+
+time = 30.1 s - train_loss = 4.111828380969441e-05. 
+
+Epoch: 154
+val_loss imporved from 4.106006677579202e-05 to 4.0895624969352285e-05.
+
+time = 29.8 s - train_loss = 4.0895624969352285e-05. 
+
+Epoch: 155
+val_loss imporved from 4.0895624969352285e-05 to 4.086033272033801e-05.
+
+time = 30.0 s - train_loss = 4.086033272033801e-05. 
+
+Epoch: 156
+val_loss imporved from 4.086033272033801e-05 to 4.0497914576025775e-05.
+
+time = 29.9 s - train_loss = 4.0497914576025775e-05. 
+
+Epoch: 157
+val_loss did not improve from 4.0497914576025775e-05.
+
+time = 29.8 s - train_loss = 4.066730832397541e-05. 
+
+Epoch: 158
+val_loss imporved from 4.0497914576025775e-05 to 4.0487475544043394e-05.
+
+time = 30.0 s - train_loss = 4.0487475544043394e-05. 
+
+Epoch: 159
+val_loss imporved from 4.0487475544043394e-05 to 4.011427549204633e-05.
+
+time = 29.9 s - train_loss = 4.011427549204633e-05. 
+
+Epoch: 160
+val_loss imporved from 4.011427549204633e-05 to 4.0067799493860486e-05.
+
+time = 29.8 s - train_loss = 4.0067799493860486e-05. 
+
+Epoch: 161
+val_loss imporved from 4.0067799493860486e-05 to 3.992364371593607e-05.
+
+time = 29.8 s - train_loss = 3.992364371593607e-05. 
+
+Epoch: 162
+val_loss imporved from 3.992364371593607e-05 to 3.983872326016936e-05.
+
+time = 29.8 s - train_loss = 3.983872326016936e-05. 
+
+Epoch: 163
+val_loss imporved from 3.983872326016936e-05 to 3.9672622314353446e-05.
+
+time = 29.7 s - train_loss = 3.9672622314353446e-05. 
+
+Epoch: 164
+val_loss imporved from 3.9672622314353446e-05 to 3.94439574572763e-05.
+
+time = 29.9 s - train_loss = 3.94439574572763e-05. 
+
+Epoch: 165
+val_loss imporved from 3.94439574572763e-05 to 3.9427004280962575e-05.
+
+time = 29.7 s - train_loss = 3.9427004280962575e-05. 
+
+Epoch: 166
+val_loss imporved from 3.9427004280962575e-05 to 3.930933300648766e-05.
+
+time = 29.7 s - train_loss = 3.930933300648766e-05. 
+
+Epoch: 167
+val_loss imporved from 3.930933300648766e-05 to 3.9084325822324674e-05.
+
+time = 29.8 s - train_loss = 3.9084325822324674e-05. 
+
+Epoch: 168
+val_loss imporved from 3.9084325822324674e-05 to 3.895375803901584e-05.
+
+time = 29.9 s - train_loss = 3.895375803901584e-05. 
+
+Epoch: 169
+val_loss did not improve from 3.895375803901584e-05.
+
+time = 29.9 s - train_loss = 3.905677804229975e-05. 
+
+Epoch: 170
+val_loss imporved from 3.895375803901584e-05 to 3.872600373813986e-05.
+
+time = 29.7 s - train_loss = 3.872600373813986e-05. 
+
+Epoch: 171
+val_loss imporved from 3.872600373813986e-05 to 3.868059883337039e-05.
+
+time = 29.8 s - train_loss = 3.868059883337039e-05. 
+
+Epoch: 172
+val_loss imporved from 3.868059883337039e-05 to 3.861848027493713e-05.
+
+time = 29.8 s - train_loss = 3.861848027493713e-05. 
+
+Epoch: 173
+val_loss imporved from 3.861848027493713e-05 to 3.836092614835042e-05.
+
+time = 29.8 s - train_loss = 3.836092614835042e-05. 
+
+Epoch: 174
+val_loss did not improve from 3.836092614835042e-05.
+
+time = 29.9 s - train_loss = 3.8462889988878186e-05. 
+
+Epoch: 175
+val_loss imporved from 3.836092614835042e-05 to 3.813549280321772e-05.
+
+time = 29.9 s - train_loss = 3.813549280321772e-05. 
+
+Epoch: 176
+val_loss did not improve from 3.813549280321772e-05.
+
+time = 29.7 s - train_loss = 3.818953279776319e-05. 
+
+Epoch: 177
+val_loss imporved from 3.813549280321772e-05 to 3.7996275136910224e-05.
+
+time = 29.9 s - train_loss = 3.7996275136910224e-05. 
+
+Epoch: 178
+val_loss did not improve from 3.7996275136910224e-05.
+
+time = 29.9 s - train_loss = 3.800996751947689e-05. 
+
+Epoch: 179
+val_loss imporved from 3.7996275136910224e-05 to 3.770138968685491e-05.
+
+time = 29.8 s - train_loss = 3.770138968685491e-05. 
+
+Epoch: 180
+val_loss imporved from 3.770138968685491e-05 to 3.7499967528798596e-05.
+
+time = 30.2 s - train_loss = 3.7499967528798596e-05. 
+
+Epoch: 181
+val_loss did not improve from 3.7499967528798596e-05.
+
+time = 31.9 s - train_loss = 3.754702366553383e-05. 
+
+Epoch: 182
+val_loss imporved from 3.7499967528798596e-05 to 3.726177629297154e-05.
+
+time = 32.1 s - train_loss = 3.726177629297154e-05. 
+
+Epoch: 183
+val_loss imporved from 3.726177629297154e-05 to 3.7250667001395126e-05.
+
+time = 33.2 s - train_loss = 3.7250667001395126e-05. 
+
+Epoch: 184
+val_loss imporved from 3.7250667001395126e-05 to 3.7208898694723525e-05.
+
+time = 32.6 s - train_loss = 3.7208898694723525e-05. 
+
+Epoch: 185
+val_loss imporved from 3.7208898694723525e-05 to 3.66141837218789e-05.
+
+time = 32.3 s - train_loss = 3.66141837218789e-05. 
+
+Epoch: 186
+val_loss did not improve from 3.66141837218789e-05.
+
+time = 32.5 s - train_loss = 3.6935248017395166e-05. 
+
+Epoch: 187
+val_loss did not improve from 3.66141837218789e-05.
+
+time = 31.9 s - train_loss = 3.7003828945463817e-05. 
+
+Epoch: 188
+val_loss did not improve from 3.66141837218789e-05.
+
+time = 30.4 s - train_loss = 3.6634025910646216e-05. 
+
+Epoch: 189
+val_loss did not improve from 3.66141837218789e-05.
+
+time = 29.8 s - train_loss = 3.6696359591177265e-05. 
+
+Epoch: 190
+val_loss imporved from 3.66141837218789e-05 to 3.656560196985002e-05.
+
+time = 29.7 s - train_loss = 3.656560196985002e-05. 
+
+Epoch: 191
+val_loss imporved from 3.656560196985002e-05 to 3.637634330589917e-05.
+
+time = 29.9 s - train_loss = 3.637634330589917e-05. 
+
+Epoch: 192
+val_loss imporved from 3.637634330589917e-05 to 3.621957812939098e-05.
+
+time = 30.1 s - train_loss = 3.621957812939098e-05. 
+
+Epoch: 193
+val_loss did not improve from 3.621957812939098e-05.
+
+time = 30.2 s - train_loss = 3.629179895785929e-05. 
+
+Epoch: 194
+val_loss imporved from 3.621957812939098e-05 to 3.6023662083926845e-05.
+
+time = 29.6 s - train_loss = 3.6023662083926845e-05. 
+
+Epoch: 195
+val_loss imporved from 3.6023662083926845e-05 to 3.6011808404504726e-05.
+
+time = 29.5 s - train_loss = 3.6011808404504726e-05. 
+
+Epoch: 196
+val_loss imporved from 3.6011808404504726e-05 to 3.583654539843565e-05.
+
+time = 29.7 s - train_loss = 3.583654539843565e-05. 
+
+Epoch: 197
+val_loss did not improve from 3.583654539843565e-05.
+
+time = 29.7 s - train_loss = 3.596824153089243e-05. 
+
+Epoch: 198
+val_loss imporved from 3.583654539843565e-05 to 3.545570451424384e-05.
+
+time = 29.8 s - train_loss = 3.545570451424384e-05. 
+
+Epoch: 199
+val_loss did not improve from 3.545570451424384e-05.
+
+time = 29.8 s - train_loss = 3.554023355604524e-05. 
+
+Epoch: 200
+val_loss did not improve from 3.545570451424384e-05.
+
+time = 29.7 s - train_loss = 3.5531265478471586e-05. 
+
+Epoch: 201
+val_loss did not improve from 3.545570451424384e-05.
+
+time = 30.0 s - train_loss = 3.549145873209827e-05. 
+
+Epoch: 202
+val_loss imporved from 3.545570451424384e-05 to 3.530551154215669e-05.
+
+time = 30.0 s - train_loss = 3.530551154215669e-05. 
+
+Epoch: 203
+val_loss imporved from 3.530551154215669e-05 to 3.526050023388648e-05.
+
+time = 30.1 s - train_loss = 3.526050023388648e-05. 
+
+Epoch: 204
+val_loss did not improve from 3.526050023388648e-05.
+
+time = 31.6 s - train_loss = 3.5467325727200194e-05. 
+
+Epoch: 205
+val_loss did not improve from 3.526050023388648e-05.
+
+time = 32.3 s - train_loss = 3.527655175197332e-05. 
+
+Epoch: 206
+val_loss imporved from 3.526050023388648e-05 to 3.5033027555258146e-05.
+
+time = 31.5 s - train_loss = 3.5033027555258146e-05. 
+
+Epoch: 207
+val_loss did not improve from 3.5033027555258146e-05.
+
+time = 31.2 s - train_loss = 3.531566400920573e-05. 
+
+Epoch: 208
+val_loss imporved from 3.5033027555258146e-05 to 3.4931346093201334e-05.
+
+time = 32.0 s - train_loss = 3.4931346093201334e-05. 
+
+Epoch: 209
+val_loss imporved from 3.4931346093201334e-05 to 3.482206548433473e-05.
+
+time = 31.5 s - train_loss = 3.482206548433473e-05. 
+
+Epoch: 210
+val_loss imporved from 3.482206548433473e-05 to 3.4502623911038755e-05.
+
+time = 31.6 s - train_loss = 3.4502623911038755e-05. 
+
+Epoch: 211
+val_loss did not improve from 3.4502623911038755e-05.
+
+time = 32.1 s - train_loss = 3.455044120807003e-05. 
+
+Epoch: 212
+val_loss did not improve from 3.4502623911038755e-05.
+
+time = 33.0 s - train_loss = 3.4555393515024525e-05. 
+
+Epoch: 213
+val_loss imporved from 3.4502623911038755e-05 to 3.4403861134650216e-05.
+
+time = 32.4 s - train_loss = 3.4403861134650216e-05. 
+
+Epoch: 214
+val_loss imporved from 3.4403861134650216e-05 to 3.433563420396017e-05.
+
+time = 30.7 s - train_loss = 3.433563420396017e-05. 
+
+Epoch: 215
+val_loss imporved from 3.433563420396017e-05 to 3.415294126776406e-05.
+
+time = 29.6 s - train_loss = 3.415294126776406e-05. 
+
+Epoch: 216
+val_loss did not improve from 3.415294126776406e-05.
+
+time = 29.3 s - train_loss = 3.428151153026613e-05. 
+
+Epoch: 217
+val_loss did not improve from 3.415294126776406e-05.
+
+time = 29.4 s - train_loss = 3.4273211360647356e-05. 
+
+Epoch: 218
+val_loss did not improve from 3.415294126776406e-05.
+
+time = 29.3 s - train_loss = 3.427030508932842e-05. 
+
+Epoch: 219
+val_loss imporved from 3.415294126776406e-05 to 3.395979716011136e-05.
+
+time = 29.2 s - train_loss = 3.395979716011136e-05. 
+
+Epoch: 220
+val_loss did not improve from 3.395979716011136e-05.
+
+time = 29.1 s - train_loss = 3.399851467447585e-05. 
+
+Epoch: 221
+val_loss did not improve from 3.395979716011136e-05.
+
+time = 29.2 s - train_loss = 3.400669975818044e-05. 
+
+Epoch: 222
+val_loss imporved from 3.395979716011136e-05 to 3.3867929399227825e-05.
+
+time = 29.4 s - train_loss = 3.3867929399227825e-05. 
+
+Epoch: 223
+val_loss imporved from 3.3867929399227825e-05 to 3.3705591669512765e-05.
+
+time = 29.2 s - train_loss = 3.3705591669512765e-05. 
+
+Epoch: 224
+val_loss imporved from 3.3705591669512765e-05 to 3.357293207689073e-05.
+
+time = 29.1 s - train_loss = 3.357293207689073e-05. 
+
+Epoch: 225
+val_loss did not improve from 3.357293207689073e-05.
+
+time = 29.4 s - train_loss = 3.360915651743974e-05. 
+
+Epoch: 226
+val_loss did not improve from 3.357293207689073e-05.
+
+time = 29.6 s - train_loss = 3.360642110952099e-05. 
+
+Epoch: 227
+val_loss imporved from 3.357293207689073e-05 to 3.356684231127416e-05.
+
+time = 29.9 s - train_loss = 3.356684231127416e-05. 
+
+Epoch: 228
+val_loss imporved from 3.356684231127416e-05 to 3.3482888852315056e-05.
+
+time = 30.3 s - train_loss = 3.3482888852315056e-05. 
+
+Epoch: 229
+val_loss did not improve from 3.3482888852315056e-05.
+
+time = 30.6 s - train_loss = 3.357731865597337e-05. 
+
+Epoch: 230
+val_loss imporved from 3.3482888852315056e-05 to 3.315189776350613e-05.
+
+time = 30.2 s - train_loss = 3.315189776350613e-05. 
+
+Epoch: 231
+val_loss did not improve from 3.315189776350613e-05.
+
+time = 30.4 s - train_loss = 3.325136451412795e-05. 
+
+Epoch: 232
+val_loss did not improve from 3.315189776350613e-05.
+
+time = 30.5 s - train_loss = 3.3291627962379074e-05. 
+
+Epoch: 233
+val_loss imporved from 3.315189776350613e-05 to 3.304985922660918e-05.
+
+time = 30.9 s - train_loss = 3.304985922660918e-05. 
+
+Epoch: 234
+val_loss imporved from 3.304985922660918e-05 to 3.3017789162785195e-05.
+
+time = 31.9 s - train_loss = 3.3017789162785195e-05. 
+
+Epoch: 235
+val_loss imporved from 3.3017789162785195e-05 to 3.298147597176712e-05.
+
+time = 31.8 s - train_loss = 3.298147597176712e-05. 
+
+Epoch: 236
+val_loss imporved from 3.298147597176712e-05 to 3.2976671552704597e-05.
+
+time = 31.8 s - train_loss = 3.2976671552704597e-05. 
+
+Epoch: 237
+val_loss did not improve from 3.2976671552704597e-05.
+
+time = 32.5 s - train_loss = 3.30417092673873e-05. 
+
+Epoch: 238
+val_loss imporved from 3.2976671552704597e-05 to 3.284487597054895e-05.
+
+time = 33.1 s - train_loss = 3.284487597054895e-05. 
+
+Epoch: 239
+val_loss did not improve from 3.284487597054895e-05.
+
+time = 32.2 s - train_loss = 3.292267824069812e-05. 
+
+Epoch: 240
+val_loss imporved from 3.284487597054895e-05 to 3.261135998083601e-05.
+
+time = 31.9 s - train_loss = 3.261135998083601e-05. 
+
+Epoch: 241
+val_loss did not improve from 3.261135998083601e-05.
+
+time = 31.8 s - train_loss = 3.2736053885716316e-05. 
+
+Epoch: 242
+val_loss imporved from 3.261135998083601e-05 to 3.250808882717708e-05.
+
+time = 33.0 s - train_loss = 3.250808882717708e-05. 
+
+Epoch: 243
+val_loss did not improve from 3.250808882717708e-05.
+
+time = 31.4 s - train_loss = 3.2521432284254815e-05. 
+
+Epoch: 244
+val_loss imporved from 3.250808882717708e-05 to 3.242147652189257e-05.
+
+time = 31.9 s - train_loss = 3.242147652189257e-05. 
+
+Epoch: 245
+val_loss imporved from 3.242147652189257e-05 to 3.240698921118896e-05.
+
+time = 31.7 s - train_loss = 3.240698921118896e-05. 
+
+Epoch: 246
+val_loss imporved from 3.240698921118896e-05 to 3.22748839213866e-05.
+
+time = 31.7 s - train_loss = 3.22748839213866e-05. 
+
+Epoch: 247
+val_loss did not improve from 3.22748839213866e-05.
+
+time = 32.1 s - train_loss = 3.230965064776835e-05. 
+
+Epoch: 248
+val_loss imporved from 3.22748839213866e-05 to 3.2188551450394636e-05.
+
+time = 31.6 s - train_loss = 3.2188551450394636e-05. 
+
+Epoch: 249
+val_loss did not improve from 3.2188551450394636e-05.
+
+time = 32.1 s - train_loss = 3.22110995341043e-05. 
+
+Epoch: 250
+val_loss imporved from 3.2188551450394636e-05 to 3.2029755187911704e-05.
+
+time = 31.0 s - train_loss = 3.2029755187911704e-05. 
+
+Epoch: 251
+val_loss did not improve from 3.2029755187911704e-05.
+
+time = 30.2 s - train_loss = 3.212879517081178e-05. 
+
+Epoch: 252
+val_loss imporved from 3.2029755187911704e-05 to 3.2013360412210635e-05.
+
+time = 30.3 s - train_loss = 3.2013360412210635e-05. 
+
+Epoch: 253
+val_loss did not improve from 3.2013360412210635e-05.
+
+time = 30.1 s - train_loss = 3.2076475978876595e-05. 
+
+Epoch: 254
+val_loss did not improve from 3.2013360412210635e-05.
+
+time = 30.3 s - train_loss = 3.208644373046513e-05. 
+
+Epoch: 255
+val_loss did not improve from 3.2013360412210635e-05.
+
+time = 29.9 s - train_loss = 3.207680026883947e-05. 
+
+Epoch: 256
+val_loss did not improve from 3.2013360412210635e-05.
+
+time = 29.8 s - train_loss = 3.212544187904681e-05. 
+
+Epoch: 257
+val_loss imporved from 3.2013360412210635e-05 to 3.189696541911033e-05.
+
+time = 29.8 s - train_loss = 3.189696541911033e-05. 
+
+Epoch: 258
+val_loss did not improve from 3.189696541911033e-05.
+
+time = 30.0 s - train_loss = 3.206612144059873e-05. 
+
+Epoch: 259
+val_loss imporved from 3.189696541911033e-05 to 3.173851017977274e-05.
+
+time = 30.2 s - train_loss = 3.173851017977274e-05. 
+
+Epoch: 260
+val_loss imporved from 3.173851017977274e-05 to 3.1670337630659006e-05.
+
+time = 30.2 s - train_loss = 3.1670337630659006e-05. 
+
+Epoch: 261
+val_loss did not improve from 3.1670337630659006e-05.
+
+time = 30.7 s - train_loss = 3.1790016679290076e-05. 
+
+Epoch: 262
+val_loss imporved from 3.1670337630659006e-05 to 3.166330031660099e-05.
+
+time = 29.7 s - train_loss = 3.166330031660099e-05. 
+
+Epoch: 263
+val_loss imporved from 3.166330031660099e-05 to 3.152126238259229e-05.
+
+time = 30.1 s - train_loss = 3.152126238259229e-05. 
+
+Epoch: 264
+val_loss imporved from 3.152126238259229e-05 to 3.144709878983841e-05.
+
+time = 30.1 s - train_loss = 3.144709878983841e-05. 
+
+Epoch: 265
+val_loss did not improve from 3.144709878983841e-05.
+
+time = 30.2 s - train_loss = 3.147590375058251e-05. 
+
+Epoch: 266
+val_loss did not improve from 3.144709878983841e-05.
+
+time = 30.2 s - train_loss = 3.14486105910729e-05. 
+
+Epoch: 267
+val_loss imporved from 3.144709878983841e-05 to 3.1347617335930025e-05.
+
+time = 30.2 s - train_loss = 3.1347617335930025e-05. 
+
+Epoch: 268
+val_loss imporved from 3.1347617335930025e-05 to 3.134025898924287e-05.
+
+time = 30.4 s - train_loss = 3.134025898924287e-05. 
+
+Epoch: 269
+val_loss imporved from 3.134025898924287e-05 to 3.122447790886638e-05.
+
+time = 30.8 s - train_loss = 3.122447790886638e-05. 
+
+Epoch: 270
+val_loss imporved from 3.122447790886638e-05 to 3.092203845929293e-05.
+
+time = 30.0 s - train_loss = 3.092203845929293e-05. 
+
+Epoch: 271
+val_loss did not improve from 3.092203845929293e-05.
+
+time = 30.1 s - train_loss = 3.101451948688037e-05. 
+
+Epoch: 272
+val_loss did not improve from 3.092203845929293e-05.
+
+time = 30.7 s - train_loss = 3.112258058305559e-05. 
+
+Epoch: 273
+val_loss did not improve from 3.092203845929293e-05.
+
+time = 30.4 s - train_loss = 3.106841457599247e-05. 
+
+Epoch: 274
+val_loss did not improve from 3.092203845929293e-05.
+
+time = 30.3 s - train_loss = 3.104337162227862e-05. 
+
+Epoch: 275
+val_loss did not improve from 3.092203845929293e-05.
+
+time = 31.2 s - train_loss = 3.112869375359361e-05. 
+
+Epoch: 276
+val_loss did not improve from 3.092203845929293e-05.
+
+time = 30.4 s - train_loss = 3.098410751233352e-05. 
+
+Epoch: 277
+val_loss imporved from 3.092203845929293e-05 to 3.0865750915866946e-05.
+
+time = 31.1 s - train_loss = 3.0865750915866946e-05. 
+
+Epoch: 278
+val_loss imporved from 3.0865750915866946e-05 to 3.067215477161359e-05.
+
+time = 30.2 s - train_loss = 3.067215477161359e-05. 
+
+Epoch: 279
+val_loss imporved from 3.067215477161359e-05 to 3.0664254442719874e-05.
+
+time = 30.6 s - train_loss = 3.0664254442719874e-05. 
+
+Epoch: 280
+val_loss imporved from 3.0664254442719874e-05 to 3.0379041112873612e-05.
+
+time = 30.7 s - train_loss = 3.0379041112873612e-05. 
+
+Epoch: 281
+val_loss did not improve from 3.0379041112873612e-05.
+
+time = 30.8 s - train_loss = 3.069967203416449e-05. 
+
+Epoch: 282
+val_loss did not improve from 3.0379041112873612e-05.
+
+time = 30.4 s - train_loss = 3.043738574204245e-05. 
+
+Epoch: 283
+val_loss did not improve from 3.0379041112873612e-05.
+
+time = 30.4 s - train_loss = 3.0510737726678565e-05. 
+
+Epoch: 284
+val_loss did not improve from 3.0379041112873612e-05.
+
+time = 30.1 s - train_loss = 3.0398318153286945e-05. 
+
+Epoch: 285
+val_loss imporved from 3.0379041112873612e-05 to 3.033343673362203e-05.
+
+time = 30.3 s - train_loss = 3.033343673362203e-05. 
+
+Epoch: 286
+val_loss imporved from 3.033343673362203e-05 to 3.0257968817795826e-05.
+
+time = 30.5 s - train_loss = 3.0257968817795826e-05. 
+
+Epoch: 287
+val_loss did not improve from 3.0257968817795826e-05.
+
+time = 30.6 s - train_loss = 3.0307727353365637e-05. 
+
+Epoch: 288
+val_loss imporved from 3.0257968817795826e-05 to 3.0217321491211686e-05.
+
+time = 30.1 s - train_loss = 3.0217321491211686e-05. 
+
+Epoch: 289
+val_loss imporved from 3.0217321491211686e-05 to 2.9809258999915866e-05.
+
+time = 30.5 s - train_loss = 2.9809258999915866e-05. 
+
+Epoch: 290
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 30.9 s - train_loss = 3.0010670655715115e-05. 
+
+Epoch: 291
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 30.6 s - train_loss = 3.013455156606826e-05. 
+
+Epoch: 292
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 30.2 s - train_loss = 3.031383922616366e-05. 
+
+Epoch: 293
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 30.5 s - train_loss = 3.0016451166532263e-05. 
+
+Epoch: 294
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 30.4 s - train_loss = 2.9902033611252998e-05. 
+
+Epoch: 295
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 30.4 s - train_loss = 2.981124634147552e-05. 
+
+Epoch: 296
+val_loss did not improve from 2.9809258999915866e-05.
+
+time = 29.9 s - train_loss = 2.991840308577416e-05. 
+
+Epoch: 297
+val_loss imporved from 2.9809258999915866e-05 to 2.97841677923146e-05.
+
+time = 30.7 s - train_loss = 2.97841677923146e-05. 
+
+Epoch: 298
+val_loss imporved from 2.97841677923146e-05 to 2.9687125913539265e-05.
+
+time = 31.3 s - train_loss = 2.9687125913539265e-05. 
+
+Epoch: 299
+val_loss imporved from 2.9687125913539265e-05 to 2.9660171237430056e-05.
+
+time = 31.4 s - train_loss = 2.9660171237430056e-05. 
+
+Epoch: 300
+val_loss imporved from 2.9660171237430056e-05 to 2.952217277283769e-05.
+
+time = 30.6 s - train_loss = 2.952217277283769e-05. 
+
+Epoch: 301
+val_loss did not improve from 2.952217277283769e-05.
+
+time = 30.2 s - train_loss = 2.9603349073891108e-05. 
+
+Epoch: 302
+val_loss imporved from 2.952217277283769e-05 to 2.9514659573277206e-05.
+
+time = 30.4 s - train_loss = 2.9514659573277206e-05. 
+
+Epoch: 303
+val_loss did not improve from 2.9514659573277206e-05.
+
+time = 30.7 s - train_loss = 2.956510595791658e-05. 
+
+Epoch: 304
+val_loss imporved from 2.9514659573277206e-05 to 2.9373818576097322e-05.
+
+time = 30.8 s - train_loss = 2.9373818576097322e-05. 
+
+Epoch: 305
+val_loss imporved from 2.9373818576097322e-05 to 2.9327231244612972e-05.
+
+time = 30.2 s - train_loss = 2.9327231244612972e-05. 
+
+Epoch: 306
+val_loss did not improve from 2.9327231244612972e-05.
+
+time = 30.0 s - train_loss = 2.9406870156343145e-05. 
+
+Epoch: 307
+val_loss imporved from 2.9327231244612972e-05 to 2.9124471491558728e-05.
+
+time = 29.8 s - train_loss = 2.9124471491558728e-05. 
+
+Epoch: 308
+val_loss did not improve from 2.9124471491558728e-05.
+
+time = 29.8 s - train_loss = 2.9342634405714262e-05. 
+
+Epoch: 309
+val_loss did not improve from 2.9124471491558728e-05.
+
+time = 29.8 s - train_loss = 2.9219776390625122e-05. 
+
+Epoch: 310
+val_loss did not improve from 2.9124471491558728e-05.
+
+time = 29.6 s - train_loss = 2.928733379261033e-05. 
+
+Epoch: 311
+val_loss imporved from 2.9124471491558728e-05 to 2.909045879138645e-05.
+
+time = 29.8 s - train_loss = 2.909045879138645e-05. 
+
+Epoch: 312
+val_loss did not improve from 2.909045879138645e-05.
+
+time = 29.9 s - train_loss = 2.9180371754280153e-05. 
+
+Epoch: 313
+val_loss imporved from 2.909045879138645e-05 to 2.8916144848738854e-05.
+
+time = 29.9 s - train_loss = 2.8916144848738854e-05. 
+
+Epoch: 314
+val_loss did not improve from 2.8916144848738854e-05.
+
+time = 29.7 s - train_loss = 2.8951814037072255e-05. 
+
+Epoch: 315
+val_loss did not improve from 2.8916144848738854e-05.
+
+time = 29.9 s - train_loss = 2.8930620873094557e-05. 
+
+Epoch: 316
+val_loss imporved from 2.8916144848738854e-05 to 2.880638945007022e-05.
+
+time = 29.8 s - train_loss = 2.880638945007022e-05. 
+
+Epoch: 317
+val_loss did not improve from 2.880638945007022e-05.
+
+time = 29.9 s - train_loss = 2.8873702165046297e-05. 
+
+Epoch: 318
+val_loss imporved from 2.880638945007022e-05 to 2.879553446676617e-05.
+
+time = 29.9 s - train_loss = 2.879553446676617e-05. 
+
+Epoch: 319
+val_loss imporved from 2.879553446676617e-05 to 2.8736145100526725e-05.
+
+time = 29.8 s - train_loss = 2.8736145100526725e-05. 
+
+Epoch: 320
+val_loss did not improve from 2.8736145100526725e-05.
+
+time = 29.6 s - train_loss = 2.8777980774408247e-05. 
+
+Epoch: 321
+val_loss did not improve from 2.8736145100526725e-05.
+
+time = 29.8 s - train_loss = 2.8859102766720934e-05. 
+
+Epoch: 322
+val_loss imporved from 2.8736145100526725e-05 to 2.8578053266391077e-05.
+
+time = 30.1 s - train_loss = 2.8578053266391077e-05. 
+
+Epoch: 323
+val_loss did not improve from 2.8578053266391077e-05.
+
+time = 30.0 s - train_loss = 2.8584704120569826e-05. 
+
+Epoch: 324
+val_loss imporved from 2.8578053266391077e-05 to 2.85445957056976e-05.
+
+time = 30.0 s - train_loss = 2.85445957056976e-05. 
+
+Epoch: 325
+val_loss did not improve from 2.85445957056976e-05.
+
+time = 29.8 s - train_loss = 2.8567885761011815e-05. 
+
+Epoch: 326
+val_loss imporved from 2.85445957056976e-05 to 2.8517909020182513e-05.
+
+time = 29.7 s - train_loss = 2.8517909020182513e-05. 
+
+Epoch: 327
+val_loss imporved from 2.8517909020182513e-05 to 2.846690467479404e-05.
+
+time = 29.7 s - train_loss = 2.846690467479404e-05. 
+
+Epoch: 328
+val_loss did not improve from 2.846690467479404e-05.
+
+time = 29.7 s - train_loss = 2.8504046943701707e-05. 
+
+Epoch: 329
+val_loss imporved from 2.846690467479404e-05 to 2.8381610099395122e-05.
+
+time = 29.6 s - train_loss = 2.8381610099395122e-05. 
+
+Epoch: 330
+val_loss did not improve from 2.8381610099395122e-05.
+
+time = 29.6 s - train_loss = 2.849961075187309e-05. 
+
+Epoch: 331
+val_loss did not improve from 2.8381610099395122e-05.
+
+time = 26.7 s - train_loss = 2.854201189616853e-05. 
+
+Epoch: 332
+val_loss did not improve from 2.8381610099395122e-05.
+
+time = 29.5 s - train_loss = 2.8534921079311297e-05. 
+
+Epoch: 333
+val_loss imporved from 2.8381610099395122e-05 to 2.8250158972207277e-05.
+
+time = 29.6 s - train_loss = 2.8250158972207277e-05. 
+
+Epoch: 334
+val_loss imporved from 2.8250158972207277e-05 to 2.8221872928542096e-05.
+
+time = 29.5 s - train_loss = 2.8221872928542096e-05. 
+
+Epoch: 335
+val_loss did not improve from 2.8221872928542096e-05.
+
+time = 29.6 s - train_loss = 2.8324378739242722e-05. 
+
+Epoch: 336
+val_loss did not improve from 2.8221872928542096e-05.
+
+time = 29.6 s - train_loss = 2.833814563355621e-05. 
+
+Epoch: 337
+val_loss imporved from 2.8221872928542096e-05 to 2.8181674279571742e-05.
+
+time = 29.6 s - train_loss = 2.8181674279571742e-05. 
+
+Epoch: 338
+val_loss did not improve from 2.8181674279571742e-05.
+
+time = 29.6 s - train_loss = 2.8416183917897165e-05. 
+
+Epoch: 339
+val_loss did not improve from 2.8181674279571742e-05.
+
+time = 29.6 s - train_loss = 2.821513795877049e-05. 
+
+Epoch: 340
+val_loss did not improve from 2.8181674279571742e-05.
+
+time = 29.5 s - train_loss = 2.8571543565980046e-05. 
+
+Epoch: 341
+val_loss did not improve from 2.8181674279571742e-05.
+
+time = 29.7 s - train_loss = 2.8429026142057765e-05. 
+
+Epoch: 342
+val_loss did not improve from 2.8181674279571742e-05.
+
+time = 29.7 s - train_loss = 2.8184243496017647e-05. 
+
+Epoch: 343
+val_loss did not improve from 2.8181674279571742e-05.
+
+time = 29.5 s - train_loss = 2.836165637750647e-05. 
+
+Epoch: 344
+val_loss imporved from 2.8181674279571742e-05 to 2.8155166894666914e-05.
+
+time = 29.6 s - train_loss = 2.8155166894666914e-05. 
+
+Epoch: 345
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.7 s - train_loss = 2.8331654739291545e-05. 
+
+Epoch: 346
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.6 s - train_loss = 2.835965268214271e-05. 
+
+Epoch: 347
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.6 s - train_loss = 2.828743619689161e-05. 
+
+Epoch: 348
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.6 s - train_loss = 2.8235893034160804e-05. 
+
+Epoch: 349
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.6 s - train_loss = 2.8266902072978777e-05. 
+
+Epoch: 350
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.6 s - train_loss = 2.8195771501600893e-05. 
+
+Epoch: 351
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.7 s - train_loss = 2.8207532861927278e-05. 
+
+Epoch: 352
+val_loss did not improve from 2.8155166894666914e-05.
+
+time = 29.7 s - train_loss = 2.8226516396176637e-05. 
+
+Epoch: 353
+val_loss imporved from 2.8155166894666914e-05 to 2.8132073814624448e-05.
+
+time = 29.7 s - train_loss = 2.8132073814624448e-05. 
+
+Epoch: 354
+val_loss did not improve from 2.8132073814624448e-05.
+
+time = 29.7 s - train_loss = 2.8391084151165396e-05. 
+
+Epoch: 355
+val_loss did not improve from 2.8132073814624448e-05.
+
+time = 29.6 s - train_loss = 2.8302726219638754e-05. 
+
+Epoch: 356
+val_loss did not improve from 2.8132073814624448e-05.
+
+time = 29.7 s - train_loss = 2.82215340179452e-05. 
+
+Epoch: 357
+val_loss did not improve from 2.8132073814624448e-05.
+
+time = 29.6 s - train_loss = 2.8234235626054656e-05. 
+
+Epoch: 358
+val_loss imporved from 2.8132073814624448e-05 to 2.812063272025357e-05.
+
+time = 29.7 s - train_loss = 2.812063272025357e-05. 
+
+Epoch: 359
+val_loss imporved from 2.812063272025357e-05 to 2.8040605510020788e-05.
+
+time = 29.6 s - train_loss = 2.8040605510020788e-05. 
+
+Epoch: 360
+val_loss did not improve from 2.8040605510020788e-05.
+
+time = 29.6 s - train_loss = 2.8160771794787542e-05. 
+
+Epoch: 361
+val_loss did not improve from 2.8040605510020788e-05.
+
+time = 29.7 s - train_loss = 2.8090770819946053e-05. 
+
+Epoch: 362
+val_loss imporved from 2.8040605510020788e-05 to 2.8033941888398484e-05.
+
+time = 29.7 s - train_loss = 2.8033941888398484e-05. 
+
+Epoch: 363
+val_loss imporved from 2.8033941888398484e-05 to 2.800415097617917e-05.
+
+time = 29.6 s - train_loss = 2.800415097617917e-05. 
+
+Epoch: 364
+val_loss did not improve from 2.800415097617917e-05.
+
+time = 29.6 s - train_loss = 2.8129311747300596e-05. 
+
+Epoch: 365
+val_loss imporved from 2.800415097617917e-05 to 2.7835545644232407e-05.
+
+time = 29.7 s - train_loss = 2.7835545644232407e-05. 
+
+Epoch: 366
+val_loss imporved from 2.7835545644232407e-05 to 2.781185053126565e-05.
+
+time = 29.7 s - train_loss = 2.781185053126565e-05. 
+
+Epoch: 367
+val_loss imporved from 2.781185053126565e-05 to 2.7680154151801258e-05.
+
+time = 29.7 s - train_loss = 2.7680154151801258e-05. 
+
+Epoch: 368
+val_loss did not improve from 2.7680154151801258e-05.
+
+time = 29.7 s - train_loss = 2.7862420644868962e-05. 
+
+Epoch: 369
+val_loss did not improve from 2.7680154151801258e-05.
+
+time = 29.7 s - train_loss = 2.7926592885723494e-05. 
+
+Epoch: 370
+val_loss did not improve from 2.7680154151801258e-05.
+
+time = 29.7 s - train_loss = 2.7759966089198267e-05. 
+
+Epoch: 371
+val_loss did not improve from 2.7680154151801258e-05.
+
+time = 29.6 s - train_loss = 2.7798157573931266e-05. 
+
+Epoch: 372
+val_loss did not improve from 2.7680154151801258e-05.
+
+time = 29.6 s - train_loss = 2.7952261349485306e-05. 
+
+Epoch: 373
+val_loss imporved from 2.7680154151801258e-05 to 2.7657855038782764e-05.
+
+time = 29.6 s - train_loss = 2.7657855038782764e-05. 
+
+Epoch: 374
+val_loss imporved from 2.7657855038782764e-05 to 2.748005248663237e-05.
+
+time = 29.6 s - train_loss = 2.748005248663237e-05. 
+
+Epoch: 375
+val_loss did not improve from 2.748005248663237e-05.
+
+time = 29.6 s - train_loss = 2.774664687908461e-05. 
+
+Epoch: 376
+val_loss did not improve from 2.748005248663237e-05.
+
+time = 29.7 s - train_loss = 2.752494663570783e-05. 
+
+Epoch: 377
+val_loss did not improve from 2.748005248663237e-05.
+
+time = 29.8 s - train_loss = 2.763700491802935e-05. 
+
+Epoch: 378
+val_loss imporved from 2.748005248663237e-05 to 2.7467380522920038e-05.
+
+time = 29.7 s - train_loss = 2.7467380522920038e-05. 
+
+Epoch: 379
+val_loss did not improve from 2.7467380522920038e-05.
+
+time = 29.6 s - train_loss = 2.7725270149498518e-05. 
+
+Epoch: 380
+val_loss imporved from 2.7467380522920038e-05 to 2.7445287220445638e-05.
+
+time = 29.6 s - train_loss = 2.7445287220445638e-05. 
+
+Epoch: 381
+val_loss did not improve from 2.7445287220445638e-05.
+
+time = 29.6 s - train_loss = 2.7491866357294053e-05. 
+
+Epoch: 382
+val_loss imporved from 2.7445287220445638e-05 to 2.724936294456113e-05.
+
+time = 29.8 s - train_loss = 2.724936294456113e-05. 
+
+Epoch: 383
+val_loss did not improve from 2.724936294456113e-05.
+
+time = 29.6 s - train_loss = 2.750433989947339e-05. 
+
+Epoch: 384
+val_loss did not improve from 2.724936294456113e-05.
+
+time = 29.7 s - train_loss = 2.7282745190416366e-05. 
+
+Epoch: 385
+val_loss did not improve from 2.724936294456113e-05.
+
+time = 29.7 s - train_loss = 2.737025654103055e-05. 
+
+Epoch: 386
+val_loss imporved from 2.724936294456113e-05 to 2.7245810148229783e-05.
+
+time = 29.7 s - train_loss = 2.7245810148229783e-05. 
+
+Epoch: 387
+val_loss imporved from 2.7245810148229783e-05 to 2.7158865815627225e-05.
+
+time = 29.7 s - train_loss = 2.7158865815627225e-05. 
+
+Epoch: 388
+val_loss did not improve from 2.7158865815627225e-05.
+
+time = 29.7 s - train_loss = 2.717304933356644e-05. 
+
+Epoch: 389
+val_loss did not improve from 2.7158865815627225e-05.
+
+time = 29.6 s - train_loss = 2.7353840251599653e-05. 
+
+Epoch: 390
+val_loss did not improve from 2.7158865815627225e-05.
+
+time = 29.6 s - train_loss = 2.7267489663232547e-05. 
+
+Epoch: 391
+val_loss did not improve from 2.7158865815627225e-05.
+
+time = 29.7 s - train_loss = 2.7284045713371556e-05. 
+
+Epoch: 392
+val_loss did not improve from 2.7158865815627225e-05.
+
+time = 29.6 s - train_loss = 2.7160141058619826e-05. 
+
+Epoch: 393
+val_loss imporved from 2.7158865815627225e-05 to 2.7046376065789086e-05.
+
+time = 29.6 s - train_loss = 2.7046376065789086e-05. 
+
+Epoch: 394
+val_loss imporved from 2.7046376065789086e-05 to 2.7004408267851514e-05.
+
+time = 29.7 s - train_loss = 2.7004408267851514e-05. 
+
+Epoch: 395
+val_loss did not improve from 2.7004408267851514e-05.
+
+time = 29.7 s - train_loss = 2.7061018753782182e-05. 
+
+Epoch: 396
+val_loss imporved from 2.7004408267851514e-05 to 2.6974776699610636e-05.
+
+time = 29.6 s - train_loss = 2.6974776699610636e-05. 
+
+Epoch: 397
+val_loss did not improve from 2.6974776699610636e-05.
+
+time = 29.7 s - train_loss = 2.6993083281626326e-05. 
+
+Epoch: 398
+val_loss imporved from 2.6974776699610636e-05 to 2.689422029963229e-05.
+
+time = 29.7 s - train_loss = 2.689422029963229e-05. 
+
+Epoch: 399
+val_loss did not improve from 2.689422029963229e-05.
+
+time = 29.7 s - train_loss = 2.6921947627275093e-05. 
+
+Epoch: 400
+val_loss imporved from 2.689422029963229e-05 to 2.683008618598636e-05.
+
+time = 29.7 s - train_loss = 2.683008618598636e-05. 
+
+Epoch: 401
+val_loss imporved from 2.683008618598636e-05 to 2.6824969970796075e-05.
+
+time = 29.6 s - train_loss = 2.6824969970796075e-05. 
+
+Epoch: 402
+val_loss did not improve from 2.6824969970796075e-05.
+
+time = 29.6 s - train_loss = 2.6858954419630838e-05. 
+
+Epoch: 403
+val_loss imporved from 2.6824969970796075e-05 to 2.678813897676677e-05.
+
+time = 29.7 s - train_loss = 2.678813897676677e-05. 
+
+Epoch: 404
+val_loss did not improve from 2.678813897676677e-05.
+
+time = 29.6 s - train_loss = 2.691881546020961e-05. 
+
+Epoch: 405
+val_loss did not improve from 2.678813897676677e-05.
+
+time = 29.6 s - train_loss = 2.6795970245815053e-05. 
+
+Epoch: 406
+val_loss imporved from 2.678813897676677e-05 to 2.675593090187193e-05.
+
+time = 29.6 s - train_loss = 2.675593090187193e-05. 
+
+Epoch: 407
+val_loss did not improve from 2.675593090187193e-05.
+
+time = 29.6 s - train_loss = 2.6874931006057923e-05. 
+
+Epoch: 408
+val_loss imporved from 2.675593090187193e-05 to 2.6698589060913967e-05.
+
+time = 29.7 s - train_loss = 2.6698589060913967e-05. 
+
+Epoch: 409
+val_loss did not improve from 2.6698589060913967e-05.
+
+time = 29.7 s - train_loss = 2.6745967542902136e-05. 
+
+Epoch: 410
+val_loss imporved from 2.6698589060913967e-05 to 2.662421593730132e-05.
+
+time = 29.7 s - train_loss = 2.662421593730132e-05. 
+
+Epoch: 411
+val_loss did not improve from 2.662421593730132e-05.
+
+time = 29.6 s - train_loss = 2.6628766948402562e-05. 
+
+Epoch: 412
+val_loss imporved from 2.662421593730132e-05 to 2.650762011117702e-05.
+
+time = 29.7 s - train_loss = 2.650762011117702e-05. 
+
+Epoch: 413
+val_loss did not improve from 2.650762011117702e-05.
+
+time = 29.7 s - train_loss = 2.655275898462942e-05. 
+
+Epoch: 414
+val_loss did not improve from 2.650762011117702e-05.
+
+time = 29.7 s - train_loss = 2.651396494730612e-05. 
+
+Epoch: 415
+val_loss did not improve from 2.650762011117702e-05.
+
+time = 29.7 s - train_loss = 2.6559360222578757e-05. 
+
+Epoch: 416
+val_loss imporved from 2.650762011117702e-05 to 2.6442031825706352e-05.
+
+time = 29.7 s - train_loss = 2.6442031825706352e-05. 
+
+Epoch: 417
+val_loss did not improve from 2.6442031825706352e-05.
+
+time = 29.6 s - train_loss = 2.654997697144074e-05. 
+
+Epoch: 418
+val_loss did not improve from 2.6442031825706352e-05.
+
+time = 29.7 s - train_loss = 2.6445860575143934e-05. 
+
+Epoch: 419
+val_loss did not improve from 2.6442031825706352e-05.
+
+time = 29.7 s - train_loss = 2.6493273762018543e-05. 
+
+Epoch: 420
+val_loss imporved from 2.6442031825706352e-05 to 2.640106540455281e-05.
+
+time = 29.6 s - train_loss = 2.640106540455281e-05. 
+
+Epoch: 421
+val_loss did not improve from 2.640106540455281e-05.
+
+time = 29.7 s - train_loss = 2.6434580534487522e-05. 
+
+Epoch: 422
+val_loss did not improve from 2.640106540455281e-05.
+
+time = 29.7 s - train_loss = 2.6418508022970222e-05. 
+
+Epoch: 423
+val_loss imporved from 2.640106540455281e-05 to 2.630224739124493e-05.
+
+time = 29.7 s - train_loss = 2.630224739124493e-05. 
+
+Epoch: 424
+val_loss imporved from 2.630224739124493e-05 to 2.624203171676793e-05.
+
+time = 29.7 s - train_loss = 2.624203171676793e-05. 
+
+Epoch: 425
+val_loss did not improve from 2.624203171676793e-05.
+
+time = 29.7 s - train_loss = 2.6268342547580656e-05. 
+
+Epoch: 426
+val_loss did not improve from 2.624203171676793e-05.
+
+time = 29.7 s - train_loss = 2.624476278336952e-05. 
+
+Epoch: 427
+val_loss did not improve from 2.624203171676793e-05.
+
+time = 29.6 s - train_loss = 2.6293436207840862e-05. 
+
+Epoch: 428
+val_loss imporved from 2.624203171676793e-05 to 2.6128462036341012e-05.
+
+time = 29.7 s - train_loss = 2.6128462036341012e-05. 
+
+Epoch: 429
+val_loss did not improve from 2.6128462036341012e-05.
+
+time = 29.5 s - train_loss = 2.6245555597691295e-05. 
+
+Epoch: 430
+val_loss imporved from 2.6128462036341012e-05 to 2.6013239856609258e-05.
+
+time = 29.7 s - train_loss = 2.6013239856609258e-05. 
+
+Epoch: 431
+val_loss did not improve from 2.6013239856609258e-05.
+
+time = 29.7 s - train_loss = 2.6122806756800773e-05. 
+
+Epoch: 432
+val_loss did not improve from 2.6013239856609258e-05.
+
+time = 29.6 s - train_loss = 2.611292454299894e-05. 
+
+Epoch: 433
+val_loss did not improve from 2.6013239856609258e-05.
+
+time = 29.7 s - train_loss = 2.6127465603509377e-05. 
+
+Epoch: 434
+val_loss did not improve from 2.6013239856609258e-05.
+
+time = 29.6 s - train_loss = 2.6044653820709023e-05. 
+
+Epoch: 435
+val_loss imporved from 2.6013239856609258e-05 to 2.5972093166765618e-05.
+
+time = 29.6 s - train_loss = 2.5972093166765618e-05. 
+
+Epoch: 436
+val_loss did not improve from 2.5972093166765618e-05.
+
+time = 29.7 s - train_loss = 2.6001440939408518e-05. 
+
+Epoch: 437
+val_loss imporved from 2.5972093166765618e-05 to 2.5933654089517264e-05.
+
+time = 29.6 s - train_loss = 2.5933654089517264e-05. 
+
+Epoch: 438
+val_loss did not improve from 2.5933654089517264e-05.
+
+time = 29.6 s - train_loss = 2.6003450305497075e-05. 
+
+Epoch: 439
+val_loss imporved from 2.5933654089517264e-05 to 2.5895830540359186e-05.
+
+time = 29.8 s - train_loss = 2.5895830540359186e-05. 
+
+Epoch: 440
+val_loss did not improve from 2.5895830540359186e-05.
+
+time = 29.6 s - train_loss = 2.5904118858679312e-05. 
+
+Epoch: 441
+val_loss did not improve from 2.5895830540359186e-05.
+
+time = 29.6 s - train_loss = 2.5994921373260045e-05. 
+
+Epoch: 442
+val_loss imporved from 2.5895830540359186e-05 to 2.5794973949145628e-05.
+
+time = 29.7 s - train_loss = 2.5794973949145628e-05. 
+
+Epoch: 443
+val_loss imporved from 2.5794973949145628e-05 to 2.5753976327763677e-05.
+
+time = 29.6 s - train_loss = 2.5753976327763677e-05. 
+
+Epoch: 444
+val_loss did not improve from 2.5753976327763677e-05.
+
+time = 29.7 s - train_loss = 2.5794572371767035e-05. 
+
+Epoch: 445
+val_loss did not improve from 2.5753976327763677e-05.
+
+time = 29.7 s - train_loss = 2.5881615510898633e-05. 
+
+Epoch: 446
+val_loss imporved from 2.5753976327763677e-05 to 2.5709809078711523e-05.
+
+time = 29.7 s - train_loss = 2.5709809078711523e-05. 
+
+Epoch: 447
+val_loss did not improve from 2.5709809078711523e-05.
+
+time = 29.7 s - train_loss = 2.5738611747984985e-05. 
+
+Epoch: 448
+val_loss did not improve from 2.5709809078711523e-05.
+
+time = 29.7 s - train_loss = 2.579967537490006e-05. 
+
+Epoch: 449
+val_loss did not improve from 2.5709809078711523e-05.
+
+time = 29.7 s - train_loss = 2.572603435018764e-05. 
+
+Epoch: 450
+val_loss imporved from 2.5709809078711523e-05 to 2.5573150968952164e-05.
+
+time = 29.7 s - train_loss = 2.5573150968952164e-05. 
+
+Epoch: 451
+val_loss did not improve from 2.5573150968952164e-05.
+
+time = 29.6 s - train_loss = 2.5619110415315332e-05. 
+
+Epoch: 452
+val_loss did not improve from 2.5573150968952164e-05.
+
+time = 29.6 s - train_loss = 2.5689765386199533e-05. 
+
+Epoch: 453
+val_loss did not improve from 2.5573150968952164e-05.
+
+time = 29.6 s - train_loss = 2.5588407852461124e-05. 
+
+Epoch: 454
+val_loss did not improve from 2.5573150968952164e-05.
+
+time = 29.7 s - train_loss = 2.5733042731420466e-05. 
+
+Epoch: 455
+val_loss did not improve from 2.5573150968952164e-05.
+
+time = 29.6 s - train_loss = 2.5576724028141444e-05. 
+
+Epoch: 456
+val_loss imporved from 2.5573150968952164e-05 to 2.5546308645839557e-05.
+
+time = 29.6 s - train_loss = 2.5546308645839557e-05. 
+
+Epoch: 457
+val_loss imporved from 2.5546308645839557e-05 to 2.541317296409211e-05.
+
+time = 29.7 s - train_loss = 2.541317296409211e-05. 
+
+Epoch: 458
+val_loss did not improve from 2.541317296409211e-05.
+
+time = 29.6 s - train_loss = 2.5467416011880006e-05. 
+
+Epoch: 459
+val_loss did not improve from 2.541317296409211e-05.
+
+time = 29.8 s - train_loss = 2.546326702118768e-05. 
+
+Epoch: 460
+val_loss did not improve from 2.541317296409211e-05.
+
+time = 29.5 s - train_loss = 2.562541704886684e-05. 
+
+Epoch: 461
+val_loss did not improve from 2.541317296409211e-05.
+
+time = 29.5 s - train_loss = 2.5513465995400644e-05. 
+
+Epoch: 462
+val_loss imporved from 2.541317296409211e-05 to 2.5295742051459665e-05.
+
+time = 29.7 s - train_loss = 2.5295742051459665e-05. 
+
+Epoch: 463
+val_loss did not improve from 2.5295742051459665e-05.
+
+time = 29.7 s - train_loss = 2.5440243302149925e-05. 
+
+Epoch: 464
+val_loss imporved from 2.5295742051459665e-05 to 2.524496598987469e-05.
+
+time = 29.6 s - train_loss = 2.524496598987469e-05. 
+
+Epoch: 465
+val_loss did not improve from 2.524496598987469e-05.
+
+time = 29.6 s - train_loss = 2.5279893519796526e-05. 
+
+Epoch: 466
+val_loss did not improve from 2.524496598987469e-05.
+
+time = 29.6 s - train_loss = 2.5293146184158914e-05. 
+
+Epoch: 467
+val_loss did not improve from 2.524496598987469e-05.
+
+time = 29.6 s - train_loss = 2.532169074440952e-05. 
+
+Epoch: 468
+val_loss imporved from 2.524496598987469e-05 to 2.5079426607635595e-05.
+
+time = 29.8 s - train_loss = 2.5079426607635595e-05. 
+
+Epoch: 469
+val_loss did not improve from 2.5079426607635595e-05.
+
+time = 36.0 s - train_loss = 2.5201092462959833e-05. 
+
+Epoch: 470
+val_loss did not improve from 2.5079426607635595e-05.
+
+time = 35.8 s - train_loss = 2.520183258992419e-05. 
+
+Epoch: 471
+val_loss did not improve from 2.5079426607635595e-05.
+
+time = 29.7 s - train_loss = 2.52257654841372e-05. 
+
+Epoch: 472
+val_loss did not improve from 2.5079426607635595e-05.
+
+time = 30.0 s - train_loss = 2.5103851877326042e-05. 
+
+Epoch: 473
+val_loss imporved from 2.5079426607635595e-05 to 2.4990331637373125e-05.
+
+time = 29.9 s - train_loss = 2.4990331637373125e-05. 
+
+Epoch: 474
+val_loss did not improve from 2.4990331637373125e-05.
+
+time = 30.1 s - train_loss = 2.5209286682779382e-05. 
+
+Epoch: 475
+val_loss imporved from 2.4990331637373125e-05 to 2.49547975175532e-05.
+
+time = 29.9 s - train_loss = 2.49547975175532e-05. 
+
+Epoch: 476
+val_loss did not improve from 2.49547975175532e-05.
+
+time = 29.8 s - train_loss = 2.5151634646176324e-05. 
+
+Epoch: 477
+val_loss imporved from 2.49547975175532e-05 to 2.4872030732256558e-05.
+
+time = 30.1 s - train_loss = 2.4872030732256558e-05. 
+
+Epoch: 478
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 29.8 s - train_loss = 2.492706040334206e-05. 
+
+Epoch: 479
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 29.9 s - train_loss = 2.5006800976755947e-05. 
+
+Epoch: 480
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 29.9 s - train_loss = 2.4904016730522567e-05. 
+
+Epoch: 481
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 30.0 s - train_loss = 2.494674671795457e-05. 
+
+Epoch: 482
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 29.9 s - train_loss = 2.4883295594928443e-05. 
+
+Epoch: 483
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 30.2 s - train_loss = 2.4895223360167582e-05. 
+
+Epoch: 484
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 30.5 s - train_loss = 2.490543071674192e-05. 
+
+Epoch: 485
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 29.6 s - train_loss = 2.4923169933668623e-05. 
+
+Epoch: 486
+val_loss did not improve from 2.4872030732256558e-05.
+
+time = 29.6 s - train_loss = 2.4928734424926984e-05. 
+
+Epoch: 487
+val_loss imporved from 2.4872030732256558e-05 to 2.4842714119624163e-05.
+
+time = 29.7 s - train_loss = 2.4842714119624163e-05. 
+
+Epoch: 488
+val_loss imporved from 2.4842714119624163e-05 to 2.4835422572662773e-05.
+
+time = 29.7 s - train_loss = 2.4835422572662773e-05. 
+
+Epoch: 489
+val_loss imporved from 2.4835422572662773e-05 to 2.4765627768743155e-05.
+
+time = 29.7 s - train_loss = 2.4765627768743155e-05. 
+
+Epoch: 490
+val_loss did not improve from 2.4765627768743155e-05.
+
+time = 29.7 s - train_loss = 2.493938854132266e-05. 
+
+Epoch: 491
+val_loss did not improve from 2.4765627768743155e-05.
+
+time = 29.6 s - train_loss = 2.48647745257512e-05. 
+
+Epoch: 492
+val_loss imporved from 2.4765627768743155e-05 to 2.468075932264631e-05.
+
+time = 29.6 s - train_loss = 2.468075932264631e-05. 
+
+Epoch: 493
+val_loss did not improve from 2.468075932264631e-05.
+
+time = 29.5 s - train_loss = 2.4949341587091218e-05. 
+
+Epoch: 494
+val_loss did not improve from 2.468075932264631e-05.
+
+time = 29.7 s - train_loss = 2.4743319216550366e-05. 
+
+Epoch: 495
+val_loss did not improve from 2.468075932264631e-05.
+
+time = 29.7 s - train_loss = 2.4734889062658167e-05. 
+
+Epoch: 496
+val_loss did not improve from 2.468075932264631e-05.
+
+time = 29.7 s - train_loss = 2.474733913911418e-05. 
+
+Epoch: 497
+val_loss did not improve from 2.468075932264631e-05.
+
+time = 29.7 s - train_loss = 2.47581691546986e-05. 
+
+Epoch: 498
+val_loss imporved from 2.468075932264631e-05 to 2.4501493445455698e-05.
+
+time = 29.7 s - train_loss = 2.4501493445455698e-05. 
+
+Epoch: 499
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.7 s - train_loss = 2.4706088033451927e-05. 
+
+Epoch: 500
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.6 s - train_loss = 2.4515107216265832e-05. 
+
+Epoch: 501
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.7 s - train_loss = 2.4532831536733355e-05. 
+
+Epoch: 502
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.9 s - train_loss = 2.453438088787532e-05. 
+
+Epoch: 503
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.6 s - train_loss = 2.4577193771062582e-05. 
+
+Epoch: 504
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.7 s - train_loss = 2.4669231252144394e-05. 
+
+Epoch: 505
+val_loss did not improve from 2.4501493445455698e-05.
+
+time = 29.7 s - train_loss = 2.4588937135617583e-05. 
+
+Epoch: 506
+val_loss imporved from 2.4501493445455698e-05 to 2.441281435937949e-05.
+
+time = 29.6 s - train_loss = 2.441281435937949e-05. 
+
+Epoch: 507
+val_loss did not improve from 2.441281435937949e-05.
+
+time = 29.6 s - train_loss = 2.4570294586829076e-05. 
+
+Epoch: 508
+val_loss imporved from 2.441281435937949e-05 to 2.4326766567512735e-05.
+
+time = 29.7 s - train_loss = 2.4326766567512735e-05. 
+
+Epoch: 509
+val_loss did not improve from 2.4326766567512735e-05.
+
+time = 29.7 s - train_loss = 2.4475791427926262e-05. 
+
+Epoch: 510
+val_loss did not improve from 2.4326766567512735e-05.
+
+time = 29.5 s - train_loss = 2.4477988680989755e-05. 
+
+Epoch: 511
+val_loss did not improve from 2.4326766567512735e-05.
+
+time = 29.6 s - train_loss = 2.447687822976018e-05. 
+
+Epoch: 512
+val_loss did not improve from 2.4326766567512735e-05.
+
+time = 29.7 s - train_loss = 2.433060395398322e-05. 
+
+Epoch: 513
+val_loss imporved from 2.4326766567512735e-05 to 2.424297716531067e-05.
+
+time = 29.7 s - train_loss = 2.424297716531067e-05. 
+
+Epoch: 514
+val_loss imporved from 2.424297716531067e-05 to 2.417750170500116e-05.
+
+time = 29.6 s - train_loss = 2.417750170500116e-05. 
+
+Epoch: 515
+val_loss did not improve from 2.417750170500116e-05.
+
+time = 34.7 s - train_loss = 2.4295192688783614e-05. 
+
+Epoch: 516
+val_loss did not improve from 2.417750170500116e-05.
+
+time = 29.7 s - train_loss = 2.4290766138168853e-05. 
+
+Epoch: 517
+val_loss imporved from 2.417750170500116e-05 to 2.416025365986479e-05.
+
+time = 29.7 s - train_loss = 2.416025365986479e-05. 
+
+Epoch: 518
+val_loss did not improve from 2.416025365986479e-05.
+
+time = 29.7 s - train_loss = 2.4365403479175985e-05. 
+
+Epoch: 519
+val_loss imporved from 2.416025365986479e-05 to 2.4045078583851673e-05.
+
+time = 29.7 s - train_loss = 2.4045078583851673e-05. 
+
+Epoch: 520
+val_loss did not improve from 2.4045078583851673e-05.
+
+time = 29.6 s - train_loss = 2.4226148645506136e-05. 
+
+Epoch: 521
+val_loss did not improve from 2.4045078583851673e-05.
+
+time = 29.7 s - train_loss = 2.4104923159156237e-05. 
+
+Epoch: 522
+val_loss imporved from 2.4045078583851673e-05 to 2.397143017836174e-05.
+
+time = 29.6 s - train_loss = 2.397143017836174e-05. 
+
+Epoch: 523
+val_loss did not improve from 2.397143017836174e-05.
+
+time = 29.7 s - train_loss = 2.4176196301112183e-05. 
+
+Epoch: 524
+val_loss did not improve from 2.397143017836174e-05.
+
+time = 29.6 s - train_loss = 2.4188184796656662e-05. 
+
+Epoch: 525
+val_loss did not improve from 2.397143017836174e-05.
+
+time = 29.6 s - train_loss = 2.4013783178339803e-05. 
+
+Epoch: 526
+val_loss imporved from 2.397143017836174e-05 to 2.3961424176377477e-05.
+
+time = 29.7 s - train_loss = 2.3961424176377477e-05. 
+
+Epoch: 527
+val_loss did not improve from 2.3961424176377477e-05.
+
+time = 29.6 s - train_loss = 2.4126699147732793e-05. 
+
+Epoch: 528
+val_loss did not improve from 2.3961424176377477e-05.
+
+time = 29.7 s - train_loss = 2.40649134399763e-05. 
+
+Epoch: 529
+val_loss imporved from 2.3961424176377477e-05 to 2.3836314214088898e-05.
+
+time = 29.6 s - train_loss = 2.3836314214088898e-05. 
+
+Epoch: 530
+val_loss did not improve from 2.3836314214088898e-05.
+
+time = 29.6 s - train_loss = 2.402582744123664e-05. 
+
+Epoch: 531
+val_loss did not improve from 2.3836314214088898e-05.
+
+time = 29.7 s - train_loss = 2.38535464181203e-05. 
+
+Epoch: 532
+val_loss imporved from 2.3836314214088898e-05 to 2.380449565563421e-05.
+
+time = 29.6 s - train_loss = 2.380449565563421e-05. 
+
+Epoch: 533
+val_loss did not improve from 2.380449565563421e-05.
+
+time = 29.7 s - train_loss = 2.3926885784784135e-05. 
+
+Epoch: 534
+val_loss did not improve from 2.380449565563421e-05.
+
+time = 29.6 s - train_loss = 2.383942444592823e-05. 
+
+Epoch: 535
+val_loss imporved from 2.380449565563421e-05 to 2.364129419539472e-05.
+
+time = 29.7 s - train_loss = 2.364129419539472e-05. 
+
+Epoch: 536
+val_loss did not improve from 2.364129419539472e-05.
+
+time = 29.7 s - train_loss = 2.3651810866620327e-05. 
+
+Epoch: 537
+val_loss did not improve from 2.364129419539472e-05.
+
+time = 29.6 s - train_loss = 2.3938681807879e-05. 
+
+Epoch: 538
+val_loss imporved from 2.364129419539472e-05 to 2.3581323956866595e-05.
+
+time = 29.7 s - train_loss = 2.3581323956866595e-05. 
+
+Epoch: 539
+val_loss did not improve from 2.3581323956866595e-05.
+
+time = 29.7 s - train_loss = 2.3822367998897858e-05. 
+
+Epoch: 540
+val_loss did not improve from 2.3581323956866595e-05.
+
+time = 29.7 s - train_loss = 2.3674744139386745e-05. 
+
+Epoch: 541
+val_loss did not improve from 2.3581323956866595e-05.
+
+time = 29.6 s - train_loss = 2.3744210639786434e-05. 
+
+Epoch: 542
+val_loss did not improve from 2.3581323956866595e-05.
+
+time = 29.6 s - train_loss = 2.3659004515280675e-05. 
+
+Epoch: 543
+val_loss did not improve from 2.3581323956866595e-05.
+
+time = 29.6 s - train_loss = 2.3821884007745533e-05. 
+
+Epoch: 544
+val_loss imporved from 2.3581323956866595e-05 to 2.3554514625737632e-05.
+
+time = 29.7 s - train_loss = 2.3554514625737632e-05. 
+
+Epoch: 545
+val_loss imporved from 2.3554514625737632e-05 to 2.3551331484850886e-05.
+
+time = 29.7 s - train_loss = 2.3551331484850886e-05. 
+
+Epoch: 546
+val_loss imporved from 2.3551331484850886e-05 to 2.3432875935234084e-05.
+
+time = 29.7 s - train_loss = 2.3432875935234084e-05. 
+
+Epoch: 547
+val_loss imporved from 2.3432875935234084e-05 to 2.3417960361462636e-05.
+
+time = 29.6 s - train_loss = 2.3417960361462636e-05. 
+
+Epoch: 548
+val_loss did not improve from 2.3417960361462636e-05.
+
+time = 29.6 s - train_loss = 2.367835621057857e-05. 
+
+Epoch: 549
+val_loss imporved from 2.3417960361462636e-05 to 2.3353483399981778e-05.
+
+time = 29.7 s - train_loss = 2.3353483399981778e-05. 
+
+Epoch: 550
+val_loss did not improve from 2.3353483399981778e-05.
+
+time = 29.7 s - train_loss = 2.3492357555967268e-05. 
+
+Epoch: 551
+val_loss did not improve from 2.3353483399981778e-05.
+
+time = 29.6 s - train_loss = 2.3426118157792763e-05. 
+
+Epoch: 552
+val_loss did not improve from 2.3353483399981778e-05.
+
+time = 29.7 s - train_loss = 2.3393830723468345e-05. 
+
+Epoch: 553
+val_loss did not improve from 2.3353483399981778e-05.
+
+time = 29.7 s - train_loss = 2.3454611670753174e-05. 
+
+Epoch: 554
+val_loss did not improve from 2.3353483399981778e-05.
+
+time = 29.6 s - train_loss = 2.344883563584066e-05. 
+
+Epoch: 555
+val_loss imporved from 2.3353483399981778e-05 to 2.3322804966288018e-05.
+
+time = 29.7 s - train_loss = 2.3322804966288018e-05. 
+
+Epoch: 556
+val_loss imporved from 2.3322804966288018e-05 to 2.3261731888481623e-05.
+
+time = 29.7 s - train_loss = 2.3261731888481623e-05. 
+
+Epoch: 557
+val_loss did not improve from 2.3261731888481623e-05.
+
+time = 29.6 s - train_loss = 2.3315215042045836e-05. 
+
+Epoch: 558
+val_loss imporved from 2.3261731888481623e-05 to 2.3185512518808578e-05.
+
+time = 29.6 s - train_loss = 2.3185512518808578e-05. 
+
+Epoch: 559
+val_loss did not improve from 2.3185512518808578e-05.
+
+time = 29.7 s - train_loss = 2.3315620303321318e-05. 
+
+Epoch: 560
+val_loss imporved from 2.3185512518808578e-05 to 2.3138061803877165e-05.
+
+time = 29.6 s - train_loss = 2.3138061803877165e-05. 
+
+Epoch: 561
+val_loss did not improve from 2.3138061803877165e-05.
+
+time = 29.8 s - train_loss = 2.3301565371212418e-05. 
+
+Epoch: 562
+val_loss did not improve from 2.3138061803877165e-05.
+
+time = 29.6 s - train_loss = 2.320868649701139e-05. 
+
+Epoch: 563
+val_loss did not improve from 2.3138061803877165e-05.
+
+time = 29.6 s - train_loss = 2.3339256865033236e-05. 
+
+Epoch: 564
+val_loss did not improve from 2.3138061803877165e-05.
+
+time = 29.6 s - train_loss = 2.332326331963339e-05. 
+
+Epoch: 565
+val_loss did not improve from 2.3138061803877165e-05.
+
+time = 29.5 s - train_loss = 2.3177525213150476e-05. 
+
+Epoch: 566
+val_loss imporved from 2.3138061803877165e-05 to 2.3024447606661356e-05.
+
+time = 29.7 s - train_loss = 2.3024447606661356e-05. 
+
+Epoch: 567
+val_loss did not improve from 2.3024447606661356e-05.
+
+time = 29.7 s - train_loss = 2.3192857779159013e-05. 
+
+Epoch: 568
+val_loss did not improve from 2.3024447606661356e-05.
+
+time = 29.7 s - train_loss = 2.3056404445045177e-05. 
+
+Epoch: 569
+val_loss did not improve from 2.3024447606661356e-05.
+
+time = 29.8 s - train_loss = 2.3125111105372854e-05. 
+
+Epoch: 570
+val_loss did not improve from 2.3024447606661356e-05.
+
+time = 29.7 s - train_loss = 2.3093402662595806e-05. 
+
+Epoch: 571
+val_loss imporved from 2.3024447606661356e-05 to 2.2982089663997602e-05.
+
+time = 29.6 s - train_loss = 2.2982089663997602e-05. 
+
+Epoch: 572
+val_loss did not improve from 2.2982089663997602e-05.
+
+time = 29.7 s - train_loss = 2.3135697330459118e-05. 
+
+Epoch: 573
+val_loss did not improve from 2.2982089663997602e-05.
+
+time = 29.6 s - train_loss = 2.3075409337536237e-05. 
+
+Epoch: 574
+val_loss did not improve from 2.2982089663997602e-05.
+
+time = 29.6 s - train_loss = 2.3009017998011487e-05. 
+
+Epoch: 575
+val_loss imporved from 2.2982089663997602e-05 to 2.2969126995757656e-05.
+
+time = 29.7 s - train_loss = 2.2969126995757656e-05. 
+
+Epoch: 576
+val_loss imporved from 2.2969126995757656e-05 to 2.2956160467548725e-05.
+
+time = 29.7 s - train_loss = 2.2956160467548725e-05. 
+
+Epoch: 577
+val_loss imporved from 2.2956160467548725e-05 to 2.2920707260456263e-05.
+
+time = 29.8 s - train_loss = 2.2920707260456263e-05. 
+
+Epoch: 578
+val_loss did not improve from 2.2920707260456263e-05.
+
+time = 29.7 s - train_loss = 2.2957041288783306e-05. 
+
+Epoch: 579
+val_loss imporved from 2.2920707260456263e-05 to 2.286293867299387e-05.
+
+time = 29.7 s - train_loss = 2.286293867299387e-05. 
+
+Epoch: 580
+val_loss imporved from 2.286293867299387e-05 to 2.285588117239694e-05.
+
+time = 29.8 s - train_loss = 2.285588117239694e-05. 
+
+Epoch: 581
+val_loss did not improve from 2.285588117239694e-05.
+
+time = 29.7 s - train_loss = 2.2869494611013504e-05. 
+
+Epoch: 582
+val_loss did not improve from 2.285588117239694e-05.
+
+time = 29.6 s - train_loss = 2.296247477575347e-05. 
+
+Epoch: 583
+val_loss imporved from 2.285588117239694e-05 to 2.2777116057701497e-05.
+
+time = 29.7 s - train_loss = 2.2777116057701497e-05. 
+
+Epoch: 584
+val_loss did not improve from 2.2777116057701497e-05.
+
+time = 29.7 s - train_loss = 2.292919208125023e-05. 
+
+Epoch: 585
+val_loss did not improve from 2.2777116057701497e-05.
+
+time = 29.7 s - train_loss = 2.280354579892963e-05. 
+
+Epoch: 586
+val_loss imporved from 2.2777116057701497e-05 to 2.273980766477307e-05.
+
+time = 29.7 s - train_loss = 2.273980766477307e-05. 
+
+Epoch: 587
+val_loss imporved from 2.273980766477307e-05 to 2.2662375520333e-05.
+
+time = 29.7 s - train_loss = 2.2662375520333e-05. 
+
+Epoch: 588
+val_loss did not improve from 2.2662375520333e-05.
+
+time = 29.7 s - train_loss = 2.2776894527339507e-05. 
+
+Epoch: 589
+val_loss did not improve from 2.2662375520333e-05.
+
+time = 29.7 s - train_loss = 2.2679418003199597e-05. 
+
+Epoch: 590
+val_loss did not improve from 2.2662375520333e-05.
+
+time = 29.7 s - train_loss = 2.2761202516484442e-05. 
+
+Epoch: 591
+val_loss did not improve from 2.2662375520333e-05.
+
+time = 29.6 s - train_loss = 2.268012929487511e-05. 
+
+Epoch: 592
+val_loss imporved from 2.2662375520333e-05 to 2.252289812425268e-05.
+
+time = 29.6 s - train_loss = 2.252289812425268e-05. 
+
+Epoch: 593
+val_loss did not improve from 2.252289812425268e-05.
+
+time = 29.7 s - train_loss = 2.2649995403083475e-05. 
+
+Epoch: 594
+val_loss did not improve from 2.252289812425268e-05.
+
+time = 29.7 s - train_loss = 2.2594428093325302e-05. 
+
+Epoch: 595
+val_loss did not improve from 2.252289812425268e-05.
+
+time = 29.7 s - train_loss = 2.2617430175762776e-05. 
+
+Epoch: 596
+val_loss imporved from 2.252289812425268e-05 to 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2332042411039574e-05. 
+
+Epoch: 597
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2413100066102404e-05. 
+
+Epoch: 598
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.8 s - train_loss = 2.2384646701062887e-05. 
+
+Epoch: 599
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2489719479173424e-05. 
+
+Epoch: 600
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.2572787275232036e-05. 
+
+Epoch: 601
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.2449801807064162e-05. 
+
+Epoch: 602
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.2482932006033408e-05. 
+
+Epoch: 603
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2357609995625127e-05. 
+
+Epoch: 604
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2438020963853884e-05. 
+
+Epoch: 605
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2453009224999247e-05. 
+
+Epoch: 606
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.2413586170436534e-05. 
+
+Epoch: 607
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.2431378258709663e-05. 
+
+Epoch: 608
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.242612850360302e-05. 
+
+Epoch: 609
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.2460186834315185e-05. 
+
+Epoch: 610
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.6 s - train_loss = 2.236104719587657e-05. 
+
+Epoch: 611
+val_loss did not improve from 2.2332042411039574e-05.
+
+time = 29.7 s - train_loss = 2.2358479725584488e-05. 
+
+Epoch: 612
+val_loss imporved from 2.2332042411039574e-05 to 2.2312238842862733e-05.
+
+time = 29.9 s - train_loss = 2.2312238842862733e-05. 
+
+Epoch: 613
+val_loss did not improve from 2.2312238842862733e-05.
+
+time = 29.7 s - train_loss = 2.2409290580408627e-05. 
+
+Epoch: 614
+val_loss did not improve from 2.2312238842862733e-05.
+
+time = 29.7 s - train_loss = 2.2343992186240505e-05. 
+
+Epoch: 615
+val_loss imporved from 2.2312238842862733e-05 to 2.2234994536629426e-05.
+
+time = 29.8 s - train_loss = 2.2234994536629426e-05. 
+
+Epoch: 616
+val_loss did not improve from 2.2234994536629426e-05.
+
+time = 29.7 s - train_loss = 2.2274137657463205e-05. 
+
+Epoch: 617
+val_loss did not improve from 2.2234994536629426e-05.
+
+time = 29.6 s - train_loss = 2.2313402895694574e-05. 
+
+Epoch: 618
+val_loss did not improve from 2.2234994536629426e-05.
+
+time = 29.6 s - train_loss = 2.2327005768402108e-05. 
+
+Epoch: 619
+val_loss did not improve from 2.2234994536629426e-05.
+
+time = 29.5 s - train_loss = 2.238232388072879e-05. 
+
+Epoch: 620
+val_loss did not improve from 2.2234994536629426e-05.
+
+time = 29.6 s - train_loss = 2.2357108925163e-05. 
+
+Epoch: 621
+val_loss did not improve from 2.2234994536629426e-05.
+
+time = 29.6 s - train_loss = 2.244909665542792e-05. 
+
+Epoch: 622
+val_loss imporved from 2.2234994536629426e-05 to 2.2154707293564488e-05.
+
+time = 29.6 s - train_loss = 2.2154707293564488e-05. 
+
+Epoch: 623
+val_loss did not improve from 2.2154707293564488e-05.
+
+time = 29.7 s - train_loss = 2.2198112219484756e-05. 
+
+Epoch: 624
+val_loss did not improve from 2.2154707293564488e-05.
+
+time = 29.7 s - train_loss = 2.238720164363547e-05. 
+
+Epoch: 625
+val_loss did not improve from 2.2154707293564488e-05.
+
+time = 29.7 s - train_loss = 2.2216851210496087e-05. 
+
+Epoch: 626
+val_loss did not improve from 2.2154707293564488e-05.
+
+time = 29.7 s - train_loss = 2.221512942080538e-05. 
+
+Epoch: 627
+val_loss imporved from 2.2154707293564488e-05 to 2.2142994222593284e-05.
+
+time = 29.6 s - train_loss = 2.2142994222593284e-05. 
+
+Epoch: 628
+val_loss did not improve from 2.2142994222593284e-05.
+
+time = 29.6 s - train_loss = 2.2198964863800788e-05. 
+
+Epoch: 629
+val_loss imporved from 2.2142994222593284e-05 to 2.207991144428802e-05.
+
+time = 29.6 s - train_loss = 2.207991144428802e-05. 
+
+Epoch: 630
+val_loss did not improve from 2.207991144428802e-05.
+
+time = 29.6 s - train_loss = 2.2112713661480583e-05. 
+
+Epoch: 631
+val_loss did not improve from 2.207991144428802e-05.
+
+time = 29.6 s - train_loss = 2.22270707955307e-05. 
+
+Epoch: 632
+val_loss did not improve from 2.207991144428802e-05.
+
+time = 29.6 s - train_loss = 2.2131564514640056e-05. 
+
+Epoch: 633
+val_loss imporved from 2.207991144428802e-05 to 2.1984716888589617e-05.
+
+time = 29.7 s - train_loss = 2.1984716888589617e-05. 
+
+Epoch: 634
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.7 s - train_loss = 2.221874160600072e-05. 
+
+Epoch: 635
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.7 s - train_loss = 2.2095895235103846e-05. 
+
+Epoch: 636
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.6 s - train_loss = 2.205071199021703e-05. 
+
+Epoch: 637
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.7 s - train_loss = 2.2094123011525186e-05. 
+
+Epoch: 638
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.6 s - train_loss = 2.2082176697280942e-05. 
+
+Epoch: 639
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.6 s - train_loss = 2.2005363665391638e-05. 
+
+Epoch: 640
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.6 s - train_loss = 2.2034959531848677e-05. 
+
+Epoch: 641
+val_loss did not improve from 2.1984716888589617e-05.
+
+time = 29.8 s - train_loss = 2.2154701430933774e-05. 
+
+Epoch: 642
+val_loss imporved from 2.1984716888589617e-05 to 2.198420488392378e-05.
+
+time = 29.6 s - train_loss = 2.198420488392378e-05. 
+
+Epoch: 643
+val_loss imporved from 2.198420488392378e-05 to 2.1939357385402987e-05.
+
+time = 29.6 s - train_loss = 2.1939357385402987e-05. 
+
+Epoch: 644
+val_loss did not improve from 2.1939357385402987e-05.
+
+time = 29.7 s - train_loss = 2.204808196049656e-05. 
+
+Epoch: 645
+val_loss imporved from 2.1939357385402987e-05 to 2.1845367509272074e-05.
+
+time = 29.6 s - train_loss = 2.1845367509272074e-05. 
+
+Epoch: 646
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.6 s - train_loss = 2.1956567292563756e-05. 
+
+Epoch: 647
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.7 s - train_loss = 2.1940646736963818e-05. 
+
+Epoch: 648
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.6 s - train_loss = 2.1883195466882708e-05. 
+
+Epoch: 649
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.7 s - train_loss = 2.18769589260168e-05. 
+
+Epoch: 650
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.7 s - train_loss = 2.1998778859465487e-05. 
+
+Epoch: 651
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.6 s - train_loss = 2.1863268134590845e-05. 
+
+Epoch: 652
+val_loss did not improve from 2.1845367509272074e-05.
+
+time = 29.6 s - train_loss = 2.1893617924337514e-05. 
+
+Epoch: 653
+val_loss imporved from 2.1845367509272074e-05 to 2.1696034708899654e-05.
+
+time = 29.7 s - train_loss = 2.1696034708899654e-05. 
+
+Epoch: 654
+val_loss did not improve from 2.1696034708899654e-05.
+
+time = 29.7 s - train_loss = 2.18624476164651e-05. 
+
+Epoch: 655
+val_loss did not improve from 2.1696034708899654e-05.
+
+time = 29.6 s - train_loss = 2.1885377282287004e-05. 
+
+Epoch: 656
+val_loss did not improve from 2.1696034708899654e-05.
+
+time = 29.7 s - train_loss = 2.1723555356088216e-05. 
+
+Epoch: 657
+val_loss did not improve from 2.1696034708899654e-05.
+
+time = 29.7 s - train_loss = 2.1856666740995048e-05. 
+
+Epoch: 658
+val_loss did not improve from 2.1696034708899654e-05.
+
+time = 29.7 s - train_loss = 2.178096947432412e-05. 
+
+Epoch: 659
+val_loss did not improve from 2.1696034708899654e-05.
+
+time = 29.6 s - train_loss = 2.1837592053969244e-05. 
+
+Epoch: 660
+val_loss imporved from 2.1696034708899654e-05 to 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.1620420362209732e-05. 
+
+Epoch: 661
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.7 s - train_loss = 2.178410755025508e-05. 
+
+Epoch: 662
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.7 s - train_loss = 2.197009344613143e-05. 
+
+Epoch: 663
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.1784425249389796e-05. 
+
+Epoch: 664
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.1785031971500292e-05. 
+
+Epoch: 665
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.170546607047067e-05. 
+
+Epoch: 666
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.7 s - train_loss = 2.176602575387672e-05. 
+
+Epoch: 667
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.1643657711324283e-05. 
+
+Epoch: 668
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.183216320124193e-05. 
+
+Epoch: 669
+val_loss did not improve from 2.1620420362209732e-05.
+
+time = 29.6 s - train_loss = 2.1632299295626967e-05. 
+
+Epoch: 670
+val_loss imporved from 2.1620420362209732e-05 to 2.1519260746488798e-05.
+
+time = 29.6 s - train_loss = 2.1519260746488798e-05. 
+
+Epoch: 671
+val_loss imporved from 2.1519260746488798e-05 to 2.151370291936919e-05.
+
+time = 29.7 s - train_loss = 2.151370291936919e-05. 
+
+Epoch: 672
+val_loss did not improve from 2.151370291936919e-05.
+
+time = 29.7 s - train_loss = 2.1524338985366798e-05. 
+
+Epoch: 673
+val_loss imporved from 2.151370291936919e-05 to 2.149101800024992e-05.
+
+time = 29.6 s - train_loss = 2.149101800024992e-05. 
+
+Epoch: 674
+val_loss did not improve from 2.149101800024992e-05.
+
+time = 29.6 s - train_loss = 2.156439759859556e-05. 
+
+Epoch: 675
+val_loss did not improve from 2.149101800024992e-05.
+
+time = 29.6 s - train_loss = 2.1693739877853324e-05. 
+
+Epoch: 676
+val_loss imporved from 2.149101800024992e-05 to 2.144063880817342e-05.
+
+time = 29.6 s - train_loss = 2.144063880817342e-05. 
+
+Epoch: 677
+val_loss did not improve from 2.144063880817342e-05.
+
+time = 29.7 s - train_loss = 2.159338145476243e-05. 
+
+Epoch: 678
+val_loss did not improve from 2.144063880817342e-05.
+
+time = 29.7 s - train_loss = 2.16171316330099e-05. 
+
+Epoch: 679
+val_loss imporved from 2.144063880817342e-05 to 2.1379901028477564e-05.
+
+time = 29.7 s - train_loss = 2.1379901028477564e-05. 
+
+Epoch: 680
+val_loss did not improve from 2.1379901028477564e-05.
+
+time = 29.8 s - train_loss = 2.148896831254345e-05. 
+
+Epoch: 681
+val_loss did not improve from 2.1379901028477564e-05.
+
+time = 29.7 s - train_loss = 2.1421134368275516e-05. 
+
+Epoch: 682
+val_loss imporved from 2.1379901028477564e-05 to 2.1359061676622766e-05.
+
+time = 29.6 s - train_loss = 2.1359061676622766e-05. 
+
+Epoch: 683
+val_loss did not improve from 2.1359061676622766e-05.
+
+time = 29.6 s - train_loss = 2.156289755159839e-05. 
+
+Epoch: 684
+val_loss did not improve from 2.1359061676622766e-05.
+
+time = 29.8 s - train_loss = 2.144285983999489e-05. 
+
+Epoch: 685
+val_loss imporved from 2.1359061676622766e-05 to 2.1312659223845625e-05.
+
+time = 29.7 s - train_loss = 2.1312659223845625e-05. 
+
+Epoch: 686
+val_loss did not improve from 2.1312659223845625e-05.
+
+time = 29.7 s - train_loss = 2.143711495337586e-05. 
+
+Epoch: 687
+val_loss did not improve from 2.1312659223845625e-05.
+
+time = 29.7 s - train_loss = 2.1432282313376758e-05. 
+
+Epoch: 688
+val_loss did not improve from 2.1312659223845625e-05.
+
+time = 29.6 s - train_loss = 2.1337389153677198e-05. 
+
+Epoch: 689
+val_loss did not improve from 2.1312659223845625e-05.
+
+time = 29.7 s - train_loss = 2.1360893898984217e-05. 
+
+Epoch: 690
+val_loss did not improve from 2.1312659223845625e-05.
+
+time = 29.7 s - train_loss = 2.134445012773953e-05. 
+
+Epoch: 691
+val_loss imporved from 2.1312659223845625e-05 to 2.1305246184922586e-05.
+
+time = 29.8 s - train_loss = 2.1305246184922586e-05. 
+
+Epoch: 692
+val_loss did not improve from 2.1305246184922586e-05.
+
+time = 29.7 s - train_loss = 2.1318222992765053e-05. 
+
+Epoch: 693
+val_loss imporved from 2.1305246184922586e-05 to 2.122365573839483e-05.
+
+time = 29.8 s - train_loss = 2.122365573839483e-05. 
+
+Epoch: 694
+val_loss did not improve from 2.122365573839483e-05.
+
+time = 27.1 s - train_loss = 2.128930974926648e-05. 
+
+Epoch: 695
+val_loss did not improve from 2.122365573839483e-05.
+
+time = 29.7 s - train_loss = 2.127256414390111e-05. 
+
+Epoch: 696
+val_loss did not improve from 2.122365573839483e-05.
+
+time = 29.5 s - train_loss = 2.124844798413062e-05. 
+
+Epoch: 697
+val_loss imporved from 2.122365573839483e-05 to 2.1127172063576094e-05.
+
+time = 29.7 s - train_loss = 2.1127172063576094e-05. 
+
+Epoch: 698
+val_loss did not improve from 2.1127172063576094e-05.
+
+time = 29.7 s - train_loss = 2.115729686358747e-05. 
+
+Epoch: 699
+val_loss did not improve from 2.1127172063576094e-05.
+
+time = 29.6 s - train_loss = 2.1201641033743203e-05. 
+
+Epoch: 700
+val_loss did not improve from 2.1127172063576094e-05.
+
+time = 29.5 s - train_loss = 2.1160290599669163e-05. 
+
+Epoch: 701
+val_loss did not improve from 2.1127172063576094e-05.
+
+time = 29.7 s - train_loss = 2.117779482036046e-05. 
+
+Epoch: 702
+val_loss did not improve from 2.1127172063576094e-05.
+
+time = 29.6 s - train_loss = 2.1198977799074194e-05. 
+
+Epoch: 703
+val_loss did not improve from 2.1127172063576094e-05.
+
+time = 29.7 s - train_loss = 2.1127484122545288e-05. 
+
+Epoch: 704
+val_loss imporved from 2.1127172063576094e-05 to 2.1002200909432933e-05.
+
+time = 29.8 s - train_loss = 2.1002200909432933e-05. 
+
+Epoch: 705
+val_loss did not improve from 2.1002200909432933e-05.
+
+time = 29.8 s - train_loss = 2.1106651448763007e-05. 
+
+Epoch: 706
+val_loss did not improve from 2.1002200909432933e-05.
+
+time = 29.6 s - train_loss = 2.1093051573714544e-05. 
+
+Epoch: 707
+val_loss did not improve from 2.1002200909432933e-05.
+
+time = 29.7 s - train_loss = 2.117063628557416e-05. 
+
+Epoch: 708
+val_loss imporved from 2.1002200909432933e-05 to 2.098122934548604e-05.
+
+time = 29.7 s - train_loss = 2.098122934548604e-05. 
+
+Epoch: 709
+val_loss did not improve from 2.098122934548604e-05.
+
+time = 29.8 s - train_loss = 2.1184418669323442e-05. 
+
+Epoch: 710
+val_loss imporved from 2.098122934548604e-05 to 2.0927214193889694e-05.
+
+time = 29.6 s - train_loss = 2.0927214193889694e-05. 
+
+Epoch: 711
+val_loss did not improve from 2.0927214193889694e-05.
+
+time = 29.6 s - train_loss = 2.1153375459060468e-05. 
+
+Epoch: 712
+val_loss did not improve from 2.0927214193889694e-05.
+
+time = 29.6 s - train_loss = 2.1103502278706743e-05. 
+
+Epoch: 713
+val_loss did not improve from 2.0927214193889694e-05.
+
+time = 29.6 s - train_loss = 2.1144825908179534e-05. 
+
+Epoch: 714
+val_loss did not improve from 2.0927214193889694e-05.
+
+time = 29.7 s - train_loss = 2.095816915054892e-05. 
+
+Epoch: 715
+val_loss imporved from 2.0927214193889694e-05 to 2.0874551433364032e-05.
+
+time = 29.6 s - train_loss = 2.0874551433364032e-05. 
+
+Epoch: 716
+val_loss did not improve from 2.0874551433364032e-05.
+
+time = 29.7 s - train_loss = 2.1081606717861048e-05. 
+
+Epoch: 717
+val_loss did not improve from 2.0874551433364032e-05.
+
+time = 29.6 s - train_loss = 2.102350349762529e-05. 
+
+Epoch: 718
+val_loss did not improve from 2.0874551433364032e-05.
+
+time = 29.7 s - train_loss = 2.0984057551948627e-05. 
+
+Epoch: 719
+val_loss did not improve from 2.0874551433364032e-05.
+
+time = 29.6 s - train_loss = 2.101433423298339e-05. 
+
+Epoch: 720
+val_loss imporved from 2.0874551433364032e-05 to 2.0829978480006075e-05.
+
+time = 29.7 s - train_loss = 2.0829978480006075e-05. 
+
+Epoch: 721
+val_loss did not improve from 2.0829978480006075e-05.
+
+time = 29.7 s - train_loss = 2.092439087944457e-05. 
+
+Epoch: 722
+val_loss did not improve from 2.0829978480006075e-05.
+
+time = 29.7 s - train_loss = 2.0832873530370786e-05. 
+
+Epoch: 723
+val_loss did not improve from 2.0829978480006075e-05.
+
+time = 29.6 s - train_loss = 2.0948166488709283e-05. 
+
+Epoch: 724
+val_loss imporved from 2.0829978480006075e-05 to 2.082905898355433e-05.
+
+time = 29.6 s - train_loss = 2.082905898355433e-05. 
+
+Epoch: 725
+val_loss did not improve from 2.082905898355433e-05.
+
+time = 29.7 s - train_loss = 2.0924009252522615e-05. 
+
+Epoch: 726
+val_loss did not improve from 2.082905898355433e-05.
+
+time = 29.7 s - train_loss = 2.0898113210512388e-05. 
+
+Epoch: 727
+val_loss did not improve from 2.082905898355433e-05.
+
+time = 29.5 s - train_loss = 2.0976059102763696e-05. 
+
+Epoch: 728
+val_loss did not improve from 2.082905898355433e-05.
+
+time = 29.6 s - train_loss = 2.093680093132516e-05. 
+
+Epoch: 729
+val_loss did not improve from 2.082905898355433e-05.
+
+time = 29.7 s - train_loss = 2.0927760916109033e-05. 
+
+Epoch: 730
+val_loss did not improve from 2.082905898355433e-05.
+
+time = 29.7 s - train_loss = 2.0845132257470134e-05. 
+
+Epoch: 731
+val_loss imporved from 2.082905898355433e-05 to 2.0784812970899296e-05.
+
+time = 29.8 s - train_loss = 2.0784812970899296e-05. 
+
+Epoch: 732
+val_loss did not improve from 2.0784812970899296e-05.
+
+time = 29.6 s - train_loss = 2.0820628893630773e-05. 
+
+Epoch: 733
+val_loss did not improve from 2.0784812970899296e-05.
+
+time = 29.7 s - train_loss = 2.079598138026468e-05. 
+
+Epoch: 734
+val_loss did not improve from 2.0784812970899296e-05.
+
+time = 29.6 s - train_loss = 2.0798027148783675e-05. 
+
+Epoch: 735
+val_loss did not improve from 2.0784812970899296e-05.
+
+time = 29.7 s - train_loss = 2.0834303076803113e-05. 
+
+Epoch: 736
+val_loss did not improve from 2.0784812970899296e-05.
+
+time = 29.6 s - train_loss = 2.078522606801632e-05. 
+
+Epoch: 737
+val_loss did not improve from 2.0784812970899296e-05.
+
+time = 29.7 s - train_loss = 2.0828037041011362e-05. 
+
+Epoch: 738
+val_loss imporved from 2.0784812970899296e-05 to 2.0758424956540724e-05.
+
+time = 29.7 s - train_loss = 2.0758424956540724e-05. 
+
+Epoch: 739
+val_loss imporved from 2.0758424956540724e-05 to 2.074268631856505e-05.
+
+time = 29.6 s - train_loss = 2.074268631856505e-05. 
+
+Epoch: 740
+val_loss imporved from 2.074268631856505e-05 to 2.07094122465276e-05.
+
+time = 29.5 s - train_loss = 2.07094122465276e-05. 
+
+Epoch: 741
+val_loss imporved from 2.07094122465276e-05 to 2.067474646693253e-05.
+
+time = 29.4 s - train_loss = 2.067474646693253e-05. 
+
+Epoch: 742
+val_loss did not improve from 2.067474646693253e-05.
+
+time = 29.6 s - train_loss = 2.074560169084785e-05. 
+
+Epoch: 743
+val_loss did not improve from 2.067474646693253e-05.
+
+time = 29.7 s - train_loss = 2.0708795706022782e-05. 
+
+Epoch: 744
+val_loss did not improve from 2.067474646693253e-05.
+
+time = 29.7 s - train_loss = 2.0760597753158685e-05. 
+
+Epoch: 745
+val_loss imporved from 2.067474646693253e-05 to 2.0553600278735327e-05.
+
+time = 29.7 s - train_loss = 2.0553600278735327e-05. 
+
+Epoch: 746
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.0736725295850305e-05. 
+
+Epoch: 747
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.0805275581199396e-05. 
+
+Epoch: 748
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.7 s - train_loss = 2.0702902462513993e-05. 
+
+Epoch: 749
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.082465719054439e-05. 
+
+Epoch: 750
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.7 s - train_loss = 2.0777100221646043e-05. 
+
+Epoch: 751
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.0670416530495896e-05. 
+
+Epoch: 752
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.061614057480195e-05. 
+
+Epoch: 753
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.0742280817882188e-05. 
+
+Epoch: 754
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.0750007054701197e-05. 
+
+Epoch: 755
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.0634564560803274e-05. 
+
+Epoch: 756
+val_loss did not improve from 2.0553600278735327e-05.
+
+time = 29.6 s - train_loss = 2.057936388064643e-05. 
+
+Epoch: 757
+val_loss imporved from 2.0553600278735327e-05 to 2.0540398305085474e-05.
+
+time = 29.7 s - train_loss = 2.0540398305085474e-05. 
+
+Epoch: 758
+val_loss did not improve from 2.0540398305085474e-05.
+
+time = 29.6 s - train_loss = 2.0642615122894583e-05. 
+
+Epoch: 759
+val_loss imporved from 2.0540398305085474e-05 to 2.053667544448691e-05.
+
+time = 29.6 s - train_loss = 2.053667544448691e-05. 
+
+Epoch: 760
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.7 s - train_loss = 2.061152621305626e-05. 
+
+Epoch: 761
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.6 s - train_loss = 2.0685451065509314e-05. 
+
+Epoch: 762
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.6 s - train_loss = 2.06824017611064e-05. 
+
+Epoch: 763
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.7 s - train_loss = 2.0616173929855118e-05. 
+
+Epoch: 764
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.6 s - train_loss = 2.0727547526387913e-05. 
+
+Epoch: 765
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.4 s - train_loss = 2.0652382031958827e-05. 
+
+Epoch: 766
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.7 s - train_loss = 2.0633219375388034e-05. 
+
+Epoch: 767
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 31.2 s - train_loss = 2.0639737135055825e-05. 
+
+Epoch: 768
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.5 s - train_loss = 2.056646982779655e-05. 
+
+Epoch: 769
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.6 s - train_loss = 2.0652950410729058e-05. 
+
+Epoch: 770
+val_loss did not improve from 2.053667544448691e-05.
+
+time = 29.9 s - train_loss = 2.059776258700185e-05. 
+
+Epoch: 771
+val_loss imporved from 2.053667544448691e-05 to 2.052684652859464e-05.
+
+time = 36.0 s - train_loss = 2.052684652859464e-05. 
+
+Epoch: 772
+val_loss imporved from 2.052684652859464e-05 to 2.0515464113890893e-05.
+
+time = 35.5 s - train_loss = 2.0515464113890893e-05. 
+
+Epoch: 773
+val_loss imporved from 2.0515464113890893e-05 to 2.050152770379376e-05.
+
+time = 29.6 s - train_loss = 2.050152770379376e-05. 
+
+Epoch: 774
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.5 s - train_loss = 2.0533508546409178e-05. 
+
+Epoch: 775
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.6 s - train_loss = 2.0540583641865133e-05. 
+
+Epoch: 776
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.6 s - train_loss = 2.0506172135708028e-05. 
+
+Epoch: 777
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.6 s - train_loss = 2.065418234077821e-05. 
+
+Epoch: 778
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.8 s - train_loss = 2.0569184741683566e-05. 
+
+Epoch: 779
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.7 s - train_loss = 2.053963913541746e-05. 
+
+Epoch: 780
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 33.0 s - train_loss = 2.0558572973318265e-05. 
+
+Epoch: 781
+val_loss did not improve from 2.050152770379376e-05.
+
+time = 29.7 s - train_loss = 2.0585978998523613e-05. 
+
+Epoch: 782
+val_loss imporved from 2.050152770379376e-05 to 2.0496797682157864e-05.
+
+time = 29.7 s - train_loss = 2.0496797682157864e-05. 
+
+Epoch: 783
+val_loss did not improve from 2.0496797682157864e-05.
+
+time = 29.8 s - train_loss = 2.0520201023397442e-05. 
+
+Epoch: 784
+val_loss did not improve from 2.0496797682157864e-05.
+
+time = 29.7 s - train_loss = 2.053552133719497e-05. 
+
+Epoch: 785
+val_loss did not improve from 2.0496797682157864e-05.
+
+time = 29.6 s - train_loss = 2.0579333247427165e-05. 
+
+Epoch: 786
+val_loss imporved from 2.0496797682157864e-05 to 2.0486985259724006e-05.
+
+time = 29.7 s - train_loss = 2.0486985259724006e-05. 
+
+Epoch: 787
+val_loss imporved from 2.0486985259724006e-05 to 2.044260575908755e-05.
+
+time = 33.7 s - train_loss = 2.044260575908755e-05. 
+
+Epoch: 788
+val_loss imporved from 2.044260575908755e-05 to 2.0397965403210246e-05.
+
+time = 29.6 s - train_loss = 2.0397965403210246e-05. 
+
+Epoch: 789
+val_loss did not improve from 2.0397965403210246e-05.
+
+time = 29.6 s - train_loss = 2.046241047014962e-05. 
+
+Epoch: 790
+val_loss imporved from 2.0397965403210246e-05 to 2.0338036342593093e-05.
+
+time = 29.7 s - train_loss = 2.0338036342593093e-05. 
+
+Epoch: 791
+val_loss did not improve from 2.0338036342593093e-05.
+
+time = 29.5 s - train_loss = 2.0532808660785255e-05. 
+
+Epoch: 792
+val_loss did not improve from 2.0338036342593093e-05.
+
+time = 29.6 s - train_loss = 2.0537177519446666e-05. 
+
+Epoch: 793
+val_loss did not improve from 2.0338036342593093e-05.
+
+time = 29.7 s - train_loss = 2.0459330420265647e-05. 
+
+Epoch: 794
+val_loss did not improve from 2.0338036342593093e-05.
+
+time = 29.8 s - train_loss = 2.0460289056182192e-05. 
+
+Epoch: 795
+val_loss did not improve from 2.0338036342593093e-05.
+
+time = 29.9 s - train_loss = 2.046941781569219e-05. 
+
+Epoch: 796
+val_loss imporved from 2.0338036342593093e-05 to 2.031929527893454e-05.
+
+time = 29.7 s - train_loss = 2.031929527893454e-05. 
+
+Epoch: 797
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.7 s - train_loss = 2.0409483908183968e-05. 
+
+Epoch: 798
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.7 s - train_loss = 2.0353544483513712e-05. 
+
+Epoch: 799
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.9 s - train_loss = 2.0434656842371117e-05. 
+
+Epoch: 800
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.7 s - train_loss = 2.0334852799527283e-05. 
+
+Epoch: 801
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.7 s - train_loss = 2.041287580676399e-05. 
+
+Epoch: 802
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.7 s - train_loss = 2.0507582588293456e-05. 
+
+Epoch: 803
+val_loss did not improve from 2.031929527893454e-05.
+
+time = 29.8 s - train_loss = 2.0432364606013103e-05. 
+
+Epoch: 804
+val_loss imporved from 2.031929527893454e-05 to 2.0311083097386322e-05.
+
+time = 29.9 s - train_loss = 2.0311083097386322e-05. 
+
+Epoch: 805
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.8 s - train_loss = 2.0475161023134465e-05. 
+
+Epoch: 806
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.6 s - train_loss = 2.0619193685972206e-05. 
+
+Epoch: 807
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.7 s - train_loss = 2.0577412789829204e-05. 
+
+Epoch: 808
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.6 s - train_loss = 2.047286202098456e-05. 
+
+Epoch: 809
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.7 s - train_loss = 2.0477278214696734e-05. 
+
+Epoch: 810
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.8 s - train_loss = 2.0480765588844782e-05. 
+
+Epoch: 811
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.8 s - train_loss = 2.0480258751071547e-05. 
+
+Epoch: 812
+val_loss did not improve from 2.0311083097386322e-05.
+
+time = 29.9 s - train_loss = 2.0396181224463068e-05. 
+
+Epoch: 813
+val_loss imporved from 2.0311083097386322e-05 to 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.0265605097047026e-05. 
+
+Epoch: 814
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.8 s - train_loss = 2.0434540277419677e-05. 
+
+Epoch: 815
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.7 s - train_loss = 2.0388817641531174e-05. 
+
+Epoch: 816
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.037973955104138e-05. 
+
+Epoch: 817
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.040554122395102e-05. 
+
+Epoch: 818
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.038550332946775e-05. 
+
+Epoch: 819
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.0365665901613854e-05. 
+
+Epoch: 820
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.0421034747562727e-05. 
+
+Epoch: 821
+val_loss did not improve from 2.0265605097047026e-05.
+
+time = 29.6 s - train_loss = 2.0385041581667744e-05. 
+
+Epoch: 822
+val_loss imporved from 2.0265605097047026e-05 to 2.0253928518125686e-05.
+
+time = 29.7 s - train_loss = 2.0253928518125686e-05. 
+
+Epoch: 823
+val_loss did not improve from 2.0253928518125686e-05.
+
+time = 30.1 s - train_loss = 2.027717009170379e-05. 
+
+Epoch: 824
+val_loss did not improve from 2.0253928518125686e-05.
+
+time = 29.5 s - train_loss = 2.0401189637930373e-05. 
+
+Epoch: 825
+val_loss did not improve from 2.0253928518125686e-05.
+
+time = 29.6 s - train_loss = 2.0332753678472033e-05. 
+
+Epoch: 826
+val_loss did not improve from 2.0253928518125686e-05.
+
+time = 29.7 s - train_loss = 2.0283407268930977e-05. 
+
+Epoch: 827
+val_loss imporved from 2.0253928518125686e-05 to 2.0221712869439055e-05.
+
+time = 29.6 s - train_loss = 2.0221712869439055e-05. 
+
+Epoch: 828
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.8 s - train_loss = 2.025774630090022e-05. 
+
+Epoch: 829
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.6 s - train_loss = 2.0301557368773115e-05. 
+
+Epoch: 830
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.7 s - train_loss = 2.038929784745015e-05. 
+
+Epoch: 831
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.7 s - train_loss = 2.0268871447990382e-05. 
+
+Epoch: 832
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.9 s - train_loss = 2.03798061222851e-05. 
+
+Epoch: 833
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.7 s - train_loss = 2.0257344025883457e-05. 
+
+Epoch: 834
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.7 s - train_loss = 2.0357368956711146e-05. 
+
+Epoch: 835
+val_loss did not improve from 2.0221712869439055e-05.
+
+time = 29.8 s - train_loss = 2.029864474555839e-05. 
+
+Epoch: 836
+val_loss imporved from 2.0221712869439055e-05 to 2.0203297106732875e-05.
+
+time = 30.1 s - train_loss = 2.0203297106732875e-05. 
+
+Epoch: 837
+val_loss did not improve from 2.0203297106732875e-05.
+
+time = 29.9 s - train_loss = 2.039953012091755e-05. 
+
+Epoch: 838
+val_loss did not improve from 2.0203297106732875e-05.
+
+time = 29.9 s - train_loss = 2.0320470391690635e-05. 
+
+Epoch: 839
+val_loss did not improve from 2.0203297106732875e-05.
+
+time = 30.1 s - train_loss = 2.027821547384428e-05. 
+
+Epoch: 840
+val_loss did not improve from 2.0203297106732875e-05.
+
+time = 29.7 s - train_loss = 2.028981611549986e-05. 
+
+Epoch: 841
+val_loss did not improve from 2.0203297106732875e-05.
+
+time = 29.7 s - train_loss = 2.0236361439855144e-05. 
+
+Epoch: 842
+val_loss did not improve from 2.0203297106732875e-05.
+
+time = 29.7 s - train_loss = 2.0292838608967995e-05. 
+
+Epoch: 843
+val_loss imporved from 2.0203297106732875e-05 to 2.015608211180085e-05.
+
+time = 29.8 s - train_loss = 2.015608211180085e-05. 
+
+Epoch: 844
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.8 s - train_loss = 2.022299158146359e-05. 
+
+Epoch: 845
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.6 s - train_loss = 2.0296941996512945e-05. 
+
+Epoch: 846
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.8 s - train_loss = 2.0201045348430928e-05. 
+
+Epoch: 847
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.8 s - train_loss = 2.025705996427728e-05. 
+
+Epoch: 848
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.8 s - train_loss = 2.0221872752559104e-05. 
+
+Epoch: 849
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.9 s - train_loss = 2.0292501370580982e-05. 
+
+Epoch: 850
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 30.2 s - train_loss = 2.0201391686673447e-05. 
+
+Epoch: 851
+val_loss did not improve from 2.015608211180085e-05.
+
+time = 29.8 s - train_loss = 2.0317213541831816e-05. 
+
+Epoch: 852
+val_loss imporved from 2.015608211180085e-05 to 2.0132938142014712e-05.
+
+time = 30.0 s - train_loss = 2.0132938142014712e-05. 
+
+Epoch: 853
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.9 s - train_loss = 2.027444161361532e-05. 
+
+Epoch: 854
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.9 s - train_loss = 2.014351795741173e-05. 
+
+Epoch: 855
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.7 s - train_loss = 2.0287631530126846e-05. 
+
+Epoch: 856
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.9 s - train_loss = 2.0190064926110232e-05. 
+
+Epoch: 857
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.8 s - train_loss = 2.022195325091546e-05. 
+
+Epoch: 858
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.7 s - train_loss = 2.0259933893432598e-05. 
+
+Epoch: 859
+val_loss did not improve from 2.0132938142014712e-05.
+
+time = 29.7 s - train_loss = 2.0192091733786426e-05. 
+
+Epoch: 860
+val_loss imporved from 2.0132938142014712e-05 to 2.012949806380789e-05.
+
+time = 29.8 s - train_loss = 2.012949806380789e-05. 
+
+Epoch: 861
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.8 s - train_loss = 2.018590358155376e-05. 
+
+Epoch: 862
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.9 s - train_loss = 2.0209177412426193e-05. 
+
+Epoch: 863
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.8 s - train_loss = 2.0279646499630543e-05. 
+
+Epoch: 864
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.8 s - train_loss = 2.0206699662583074e-05. 
+
+Epoch: 865
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.7 s - train_loss = 2.0302914664686662e-05. 
+
+Epoch: 866
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.9 s - train_loss = 2.013064129959805e-05. 
+
+Epoch: 867
+val_loss did not improve from 2.012949806380789e-05.
+
+time = 29.9 s - train_loss = 2.0197484527835568e-05. 
+
+Epoch: 868
+val_loss imporved from 2.012949806380789e-05 to 2.0076018668717863e-05.
+
+time = 29.9 s - train_loss = 2.0076018668717863e-05. 
+
+Epoch: 869
+val_loss did not improve from 2.0076018668717863e-05.
+
+time = 29.8 s - train_loss = 2.013124225487245e-05. 
+
+Epoch: 870
+val_loss did not improve from 2.0076018668717863e-05.
+
+time = 29.8 s - train_loss = 2.0153023112665764e-05. 
+
+Epoch: 871
+val_loss did not improve from 2.0076018668717863e-05.
+
+time = 29.7 s - train_loss = 2.0172864820084915e-05. 
+
+Epoch: 872
+val_loss did not improve from 2.0076018668717863e-05.
+
+time = 29.8 s - train_loss = 2.0120204919464075e-05. 
+
+Epoch: 873
+val_loss imporved from 2.0076018668717863e-05 to 2.0047669495131706e-05.
+
+time = 30.0 s - train_loss = 2.0047669495131706e-05. 
+
+Epoch: 874
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.7 s - train_loss = 2.019485915705871e-05. 
+
+Epoch: 875
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.5 s - train_loss = 2.0136412623473677e-05. 
+
+Epoch: 876
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.010171993889093e-05. 
+
+Epoch: 877
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.7 s - train_loss = 2.0203558978346716e-05. 
+
+Epoch: 878
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.009589958004547e-05. 
+
+Epoch: 879
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.0076749445177326e-05. 
+
+Epoch: 880
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.014608036958956e-05. 
+
+Epoch: 881
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.0126352549939325e-05. 
+
+Epoch: 882
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.0086018578322664e-05. 
+
+Epoch: 883
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.0080465329077504e-05. 
+
+Epoch: 884
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.6 s - train_loss = 2.0115346398608866e-05. 
+
+Epoch: 885
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.7 s - train_loss = 2.0072734553968605e-05. 
+
+Epoch: 886
+val_loss did not improve from 2.0047669495131706e-05.
+
+time = 29.8 s - train_loss = 2.0158673041641068e-05. 
+
+Epoch: 887
+val_loss imporved from 2.0047669495131706e-05 to 2.000937039963161e-05.
+
+time = 29.7 s - train_loss = 2.000937039963161e-05. 
+
+Epoch: 888
+val_loss did not improve from 2.000937039963161e-05.
+
+time = 29.5 s - train_loss = 2.0057779703294782e-05. 
+
+Epoch: 889
+val_loss did not improve from 2.000937039963161e-05.
+
+time = 29.6 s - train_loss = 2.0156378306231022e-05. 
+
+Epoch: 890
+val_loss imporved from 2.000937039963161e-05 to 1.9863692888074864e-05.
+
+time = 29.7 s - train_loss = 1.9863692888074864e-05. 
+
+Epoch: 891
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.8 s - train_loss = 2.0111136314224998e-05. 
+
+Epoch: 892
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.7 s - train_loss = 2.0108741964127668e-05. 
+
+Epoch: 893
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.7 s - train_loss = 2.009476914716663e-05. 
+
+Epoch: 894
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 1.9916315700185785e-05. 
+
+Epoch: 895
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.5 s - train_loss = 2.0130575437076175e-05. 
+
+Epoch: 896
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 1.9965415064586694e-05. 
+
+Epoch: 897
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 2.0091379961870243e-05. 
+
+Epoch: 898
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.5 s - train_loss = 1.9943621987358382e-05. 
+
+Epoch: 899
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 2.013326771794053e-05. 
+
+Epoch: 900
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 2.0029743360101597e-05. 
+
+Epoch: 901
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 2.0032351642385038e-05. 
+
+Epoch: 902
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 1.9929352577113208e-05. 
+
+Epoch: 903
+val_loss did not improve from 1.9863692888074864e-05.
+
+time = 29.6 s - train_loss = 1.996831230967739e-05. 
+
+Epoch: 904
+val_loss imporved from 1.9863692888074864e-05 to 1.9858787270309564e-05.
+
+time = 29.7 s - train_loss = 1.9858787270309564e-05. 
+
+Epoch: 905
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.7 s - train_loss = 2.0096814364035284e-05. 
+
+Epoch: 906
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 2.003900921390418e-05. 
+
+Epoch: 907
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 2.0061060055769738e-05. 
+
+Epoch: 908
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 1.9942764098089007e-05. 
+
+Epoch: 909
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.7 s - train_loss = 2.0047827094856372e-05. 
+
+Epoch: 910
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.7 s - train_loss = 1.996032075437996e-05. 
+
+Epoch: 911
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 1.99957911881951e-05. 
+
+Epoch: 912
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 1.995187283604851e-05. 
+
+Epoch: 913
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 1.999863760244394e-05. 
+
+Epoch: 914
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.5 s - train_loss = 2.0041148628234804e-05. 
+
+Epoch: 915
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 1.9881828137217565e-05. 
+
+Epoch: 916
+val_loss did not improve from 1.9858787270309564e-05.
+
+time = 29.6 s - train_loss = 1.990298304462434e-05. 
+
+Epoch: 917
+val_loss imporved from 1.9858787270309564e-05 to 1.9785379780370836e-05.
+
+time = 29.7 s - train_loss = 1.9785379780370836e-05. 
+
+Epoch: 918
+val_loss did not improve from 1.9785379780370836e-05.
+
+time = 29.7 s - train_loss = 1.992474070491926e-05. 
+
+Epoch: 919
+val_loss did not improve from 1.9785379780370836e-05.
+
+time = 29.6 s - train_loss = 2.0068245072464006e-05. 
+
+Epoch: 920
+val_loss did not improve from 1.9785379780370836e-05.
+
+time = 29.7 s - train_loss = 1.9861165601013098e-05. 
+
+Epoch: 921
+val_loss did not improve from 1.9785379780370836e-05.
+
+time = 29.6 s - train_loss = 1.9958354767420225e-05. 
+
+Epoch: 922
+val_loss imporved from 1.9785379780370836e-05 to 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.9756775853740268e-05. 
+
+Epoch: 923
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.995964708639753e-05. 
+
+Epoch: 924
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.9842064626835327e-05. 
+
+Epoch: 925
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.5 s - train_loss = 1.998126774027757e-05. 
+
+Epoch: 926
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.9863663688924805e-05. 
+
+Epoch: 927
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.9847181530638504e-05. 
+
+Epoch: 928
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.990558237224842e-05. 
+
+Epoch: 929
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.9858046079154068e-05. 
+
+Epoch: 930
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.9853775064483694e-05. 
+
+Epoch: 931
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.9909351358352134e-05. 
+
+Epoch: 932
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.982816669545763e-05. 
+
+Epoch: 933
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.984538116054223e-05. 
+
+Epoch: 934
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.978255160383417e-05. 
+
+Epoch: 935
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.9837842087567537e-05. 
+
+Epoch: 936
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.9874138732083892e-05. 
+
+Epoch: 937
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.7 s - train_loss = 1.9799021228542458e-05. 
+
+Epoch: 938
+val_loss did not improve from 1.9756775853740268e-05.
+
+time = 29.6 s - train_loss = 1.981507939556759e-05. 
+
+Epoch: 939
+val_loss imporved from 1.9756775853740268e-05 to 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9716083694324158e-05. 
+
+Epoch: 940
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.7 s - train_loss = 1.9765813988690102e-05. 
+
+Epoch: 941
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9729865714370562e-05. 
+
+Epoch: 942
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9883966036726493e-05. 
+
+Epoch: 943
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.5 s - train_loss = 1.981580201808404e-05. 
+
+Epoch: 944
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.973274521924775e-05. 
+
+Epoch: 945
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.988629119951613e-05. 
+
+Epoch: 946
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9849980545709602e-05. 
+
+Epoch: 947
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 2.000374613411405e-05. 
+
+Epoch: 948
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.5 s - train_loss = 1.985556473202506e-05. 
+
+Epoch: 949
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9771679646831907e-05. 
+
+Epoch: 950
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9779461496623514e-05. 
+
+Epoch: 951
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.6 s - train_loss = 1.9801449757843357e-05. 
+
+Epoch: 952
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.8 s - train_loss = 1.9778888959100087e-05. 
+
+Epoch: 953
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.7 s - train_loss = 1.9919249144875666e-05. 
+
+Epoch: 954
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.7 s - train_loss = 1.9863375319410834e-05. 
+
+Epoch: 955
+val_loss did not improve from 1.9716083694324158e-05.
+
+time = 29.7 s - train_loss = 1.982494624771257e-05. 
+
+Epoch: 956
+val_loss imporved from 1.9716083694324158e-05 to 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.9600332299354386e-05. 
+
+Epoch: 957
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.979386093278506e-05. 
+
+Epoch: 958
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.9882788467194665e-05. 
+
+Epoch: 959
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.8 s - train_loss = 1.985286064546346e-05. 
+
+Epoch: 960
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.9899145122337338e-05. 
+
+Epoch: 961
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.9893872798176672e-05. 
+
+Epoch: 962
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.970372756072226e-05. 
+
+Epoch: 963
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.9736732751038122e-05. 
+
+Epoch: 964
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.9762518546425005e-05. 
+
+Epoch: 965
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.96594254323708e-05. 
+
+Epoch: 966
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.9838530968843917e-05. 
+
+Epoch: 967
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.9750479461662785e-05. 
+
+Epoch: 968
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.976596168055936e-05. 
+
+Epoch: 969
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.9890195549117414e-05. 
+
+Epoch: 970
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.6 s - train_loss = 1.9619825740604924e-05. 
+
+Epoch: 971
+val_loss did not improve from 1.9600332299354386e-05.
+
+time = 29.7 s - train_loss = 1.9804346979975014e-05. 
+
+Epoch: 972
+val_loss imporved from 1.9600332299354386e-05 to 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.957907399487707e-05. 
+
+Epoch: 973
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.9771491118587205e-05. 
+
+Epoch: 974
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.9689267891595707e-05. 
+
+Epoch: 975
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.9777770871376783e-05. 
+
+Epoch: 976
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.5 s - train_loss = 1.986624307464251e-05. 
+
+Epoch: 977
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.984178048004319e-05. 
+
+Epoch: 978
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.983055079632236e-05. 
+
+Epoch: 979
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.5 s - train_loss = 1.9879660834302282e-05. 
+
+Epoch: 980
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.985595082899314e-05. 
+
+Epoch: 981
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.980954281062777e-05. 
+
+Epoch: 982
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.982539798901246e-05. 
+
+Epoch: 983
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.991549689607121e-05. 
+
+Epoch: 984
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.978643754820145e-05. 
+
+Epoch: 985
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.9872596435859393e-05. 
+
+Epoch: 986
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.994606133780951e-05. 
+
+Epoch: 987
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.9885805034855137e-05. 
+
+Epoch: 988
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.9777196661960155e-05. 
+
+Epoch: 989
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.9873994407751774e-05. 
+
+Epoch: 990
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.8 s - train_loss = 1.9868743260377212e-05. 
+
+Epoch: 991
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.9755968890474016e-05. 
+
+Epoch: 992
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.969424177941543e-05. 
+
+Epoch: 993
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.9691683644902788e-05. 
+
+Epoch: 994
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.7 s - train_loss = 1.972857184193704e-05. 
+
+Epoch: 995
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.980124996225134e-05. 
+
+Epoch: 996
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.9773611995788087e-05. 
+
+Epoch: 997
+val_loss did not improve from 1.957907399487707e-05.
+
+time = 29.6 s - train_loss = 1.9689457311601233e-05. 
+
+Epoch: 998
+val_loss imporved from 1.957907399487707e-05 to 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.955290124274561e-05. 
+
+Epoch: 999
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.977134871157252e-05. 
+
+Epoch: 1000
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.9623415021860918e-05. 
+
+Epoch: 1001
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.973460413046522e-05. 
+
+Epoch: 1002
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.9755165372963983e-05. 
+
+Epoch: 1003
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.5 s - train_loss = 1.9660601610743073e-05. 
+
+Epoch: 1004
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.95677735110155e-05. 
+
+Epoch: 1005
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.9775035303219765e-05. 
+
+Epoch: 1006
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.960590723016788e-05. 
+
+Epoch: 1007
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.5 s - train_loss = 1.9695816747780377e-05. 
+
+Epoch: 1008
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.9734740333788676e-05. 
+
+Epoch: 1009
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.9721392970665536e-05. 
+
+Epoch: 1010
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.968914074680148e-05. 
+
+Epoch: 1011
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.9580341441929366e-05. 
+
+Epoch: 1012
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.5 s - train_loss = 1.9556517784933582e-05. 
+
+Epoch: 1013
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.959028008525397e-05. 
+
+Epoch: 1014
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.9715762448096768e-05. 
+
+Epoch: 1015
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.9567494314667626e-05. 
+
+Epoch: 1016
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.959561502156965e-05. 
+
+Epoch: 1017
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.963076360968892e-05. 
+
+Epoch: 1018
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.6 s - train_loss = 1.9635141277971886e-05. 
+
+Epoch: 1019
+val_loss did not improve from 1.955290124274561e-05.
+
+time = 29.7 s - train_loss = 1.9571246888857112e-05. 
+
+Epoch: 1020
+val_loss imporved from 1.955290124274561e-05 to 1.9499839527238856e-05.
+
+time = 29.6 s - train_loss = 1.9499839527238856e-05. 
+
+Epoch: 1021
+val_loss imporved from 1.9499839527238856e-05 to 1.9449136132918844e-05.
+
+time = 29.6 s - train_loss = 1.9449136132918844e-05. 
+
+Epoch: 1022
+val_loss did not improve from 1.9449136132918844e-05.
+
+time = 29.6 s - train_loss = 1.950603893478513e-05. 
+
+Epoch: 1023
+val_loss did not improve from 1.9449136132918844e-05.
+
+time = 29.6 s - train_loss = 1.9664315092494204e-05. 
+
+Epoch: 1024
+val_loss did not improve from 1.9449136132918844e-05.
+
+time = 29.6 s - train_loss = 1.957015831411021e-05. 
+
+Epoch: 1025
+val_loss imporved from 1.9449136132918844e-05 to 1.9408618329368912e-05.
+
+time = 29.7 s - train_loss = 1.9408618329368912e-05. 
+
+Epoch: 1026
+val_loss imporved from 1.9408618329368912e-05 to 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.9357846871467512e-05. 
+
+Epoch: 1027
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.8 s - train_loss = 1.9512808864209365e-05. 
+
+Epoch: 1028
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.9366229479244103e-05. 
+
+Epoch: 1029
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.9639282267992592e-05. 
+
+Epoch: 1030
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.9514707462900196e-05. 
+
+Epoch: 1031
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.9485086623023354e-05. 
+
+Epoch: 1032
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.6 s - train_loss = 1.9427088476659822e-05. 
+
+Epoch: 1033
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.952119808878159e-05. 
+
+Epoch: 1034
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.7 s - train_loss = 1.9362255181520007e-05. 
+
+Epoch: 1035
+val_loss did not improve from 1.9357846871467512e-05.
+
+time = 29.6 s - train_loss = 1.943034485704584e-05. 
+
+Epoch: 1036
+val_loss imporved from 1.9357846871467512e-05 to 1.9301295801159995e-05.
+
+time = 29.6 s - train_loss = 1.9301295801159995e-05. 
+
+Epoch: 1037
+val_loss did not improve from 1.9301295801159995e-05.
+
+time = 29.6 s - train_loss = 1.944243739409739e-05. 
+
+Epoch: 1038
+val_loss did not improve from 1.9301295801159995e-05.
+
+time = 29.6 s - train_loss = 1.935942856841487e-05. 
+
+Epoch: 1039
+val_loss did not improve from 1.9301295801159995e-05.
+
+time = 29.6 s - train_loss = 1.9501750291054676e-05. 
+
+Epoch: 1040
+val_loss imporved from 1.9301295801159995e-05 to 1.9290195067289036e-05.
+
+time = 29.7 s - train_loss = 1.9290195067289036e-05. 
+
+Epoch: 1041
+val_loss did not improve from 1.9290195067289036e-05.
+
+time = 29.7 s - train_loss = 1.934171842887614e-05. 
+
+Epoch: 1042
+val_loss did not improve from 1.9290195067289036e-05.
+
+time = 29.7 s - train_loss = 1.9307280647125758e-05. 
+
+Epoch: 1043
+val_loss did not improve from 1.9290195067289036e-05.
+
+time = 29.6 s - train_loss = 1.938386677702916e-05. 
+
+Epoch: 1044
+val_loss did not improve from 1.9290195067289036e-05.
+
+time = 29.6 s - train_loss = 1.9475290206682882e-05. 
+
+Epoch: 1045
+val_loss did not improve from 1.9290195067289036e-05.
+
+time = 29.8 s - train_loss = 1.942669651516097e-05. 
+
+Epoch: 1046
+val_loss did not improve from 1.9290195067289036e-05.
+
+time = 29.6 s - train_loss = 1.933309389503386e-05. 
+
+Epoch: 1047
+val_loss imporved from 1.9290195067289036e-05 to 1.9237407518675125e-05.
+
+time = 29.6 s - train_loss = 1.9237407518675125e-05. 
+
+Epoch: 1048
+val_loss did not improve from 1.9237407518675125e-05.
+
+time = 29.7 s - train_loss = 1.9352761335889593e-05. 
+
+Epoch: 1049
+val_loss did not improve from 1.9237407518675125e-05.
+
+time = 29.6 s - train_loss = 1.9382952713794894e-05. 
+
+Epoch: 1050
+val_loss did not improve from 1.9237407518675125e-05.
+
+time = 29.7 s - train_loss = 1.9326954756553712e-05. 
+
+Epoch: 1051
+val_loss did not improve from 1.9237407518675125e-05.
+
+time = 29.6 s - train_loss = 1.9281318273437526e-05. 
+
+Epoch: 1052
+val_loss imporved from 1.9237407518675125e-05 to 1.9162122167601465e-05.
+
+time = 29.8 s - train_loss = 1.9162122167601465e-05. 
+
+Epoch: 1053
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.7 s - train_loss = 1.9326531093686e-05. 
+
+Epoch: 1054
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.6 s - train_loss = 1.9266786084617224e-05. 
+
+Epoch: 1055
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.6 s - train_loss = 1.9353907601639815e-05. 
+
+Epoch: 1056
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.5 s - train_loss = 1.934304309587557e-05. 
+
+Epoch: 1057
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.7 s - train_loss = 1.9218610511750456e-05. 
+
+Epoch: 1058
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 26.5 s - train_loss = 1.9256841405598238e-05. 
+
+Epoch: 1059
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.5 s - train_loss = 1.93344121563025e-05. 
+
+Epoch: 1060
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.7 s - train_loss = 1.9251201881343656e-05. 
+
+Epoch: 1061
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.7 s - train_loss = 1.9272355647131907e-05. 
+
+Epoch: 1062
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.5 s - train_loss = 1.9222055470732726e-05. 
+
+Epoch: 1063
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.7 s - train_loss = 1.9274478043587953e-05. 
+
+Epoch: 1064
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.6 s - train_loss = 1.9254906340825008e-05. 
+
+Epoch: 1065
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.6 s - train_loss = 1.9310570629730892e-05. 
+
+Epoch: 1066
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.7 s - train_loss = 1.922692951649149e-05. 
+
+Epoch: 1067
+val_loss did not improve from 1.9162122167601465e-05.
+
+time = 29.6 s - train_loss = 1.918764486346166e-05. 
+
+Epoch: 1068
+val_loss imporved from 1.9162122167601465e-05 to 1.9103580099071575e-05.
+
+time = 29.6 s - train_loss = 1.9103580099071575e-05. 
+
+Epoch: 1069
+val_loss did not improve from 1.9103580099071575e-05.
+
+time = 29.6 s - train_loss = 1.924019263386776e-05. 
+
+Epoch: 1070
+val_loss did not improve from 1.9103580099071575e-05.
+
+time = 29.7 s - train_loss = 1.918253124533476e-05. 
+
+Epoch: 1071
+val_loss did not improve from 1.9103580099071575e-05.
+
+time = 29.6 s - train_loss = 1.9172443162403694e-05. 
+
+Epoch: 1072
+val_loss did not improve from 1.9103580099071575e-05.
+
+time = 29.6 s - train_loss = 1.924192165074791e-05. 
+
+Epoch: 1073
+val_loss did not improve from 1.9103580099071575e-05.
+
+time = 29.6 s - train_loss = 1.913953838796648e-05. 
+
+Epoch: 1074
+val_loss imporved from 1.9103580099071575e-05 to 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.9027616005909076e-05. 
+
+Epoch: 1075
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.9221803837426148e-05. 
+
+Epoch: 1076
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.5 s - train_loss = 1.9134182918192857e-05. 
+
+Epoch: 1077
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.5 s - train_loss = 1.9108110358999832e-05. 
+
+Epoch: 1078
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.5 s - train_loss = 1.9206367990092305e-05. 
+
+Epoch: 1079
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.5 s - train_loss = 1.9080482513356886e-05. 
+
+Epoch: 1080
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.9045674781652824e-05. 
+
+Epoch: 1081
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.914094203232538e-05. 
+
+Epoch: 1082
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.9089891547339657e-05. 
+
+Epoch: 1083
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.7 s - train_loss = 1.913049100163147e-05. 
+
+Epoch: 1084
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.9126300453808147e-05. 
+
+Epoch: 1085
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.7 s - train_loss = 1.9095020069367632e-05. 
+
+Epoch: 1086
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.4 s - train_loss = 1.9064636661409684e-05. 
+
+Epoch: 1087
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.90617730528975e-05. 
+
+Epoch: 1088
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.7 s - train_loss = 1.9080907514974197e-05. 
+
+Epoch: 1089
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.6 s - train_loss = 1.9045865858984434e-05. 
+
+Epoch: 1090
+val_loss did not improve from 1.9027616005909076e-05.
+
+time = 29.5 s - train_loss = 1.9054244115151888e-05. 
+
+Epoch: 1091
+val_loss imporved from 1.9027616005909076e-05 to 1.8992596778210664e-05.
+
+time = 29.6 s - train_loss = 1.8992596778210664e-05. 
+
+Epoch: 1092
+val_loss did not improve from 1.8992596778210664e-05.
+
+time = 29.6 s - train_loss = 1.907061151591746e-05. 
+
+Epoch: 1093
+val_loss did not improve from 1.8992596778210664e-05.
+
+time = 29.5 s - train_loss = 1.9071012150708666e-05. 
+
+Epoch: 1094
+val_loss imporved from 1.8992596778210664e-05 to 1.8972676779511526e-05.
+
+time = 29.7 s - train_loss = 1.8972676779511526e-05. 
+
+Epoch: 1095
+val_loss did not improve from 1.8972676779511526e-05.
+
+time = 29.6 s - train_loss = 1.898293223986866e-05. 
+
+Epoch: 1096
+val_loss did not improve from 1.8972676779511526e-05.
+
+time = 29.6 s - train_loss = 1.9018003938001133e-05. 
+
+Epoch: 1097
+val_loss imporved from 1.8972676779511526e-05 to 1.8937830146008316e-05.
+
+time = 29.6 s - train_loss = 1.8937830146008316e-05. 
+
+Epoch: 1098
+val_loss did not improve from 1.8937830146008316e-05.
+
+time = 29.8 s - train_loss = 1.8985408409021387e-05. 
+
+Epoch: 1099
+val_loss did not improve from 1.8937830146008316e-05.
+
+time = 29.7 s - train_loss = 1.907003391647967e-05. 
+
+Epoch: 1100
+val_loss imporved from 1.8937830146008316e-05 to 1.891108389334041e-05.
+
+time = 29.6 s - train_loss = 1.891108389334041e-05. 
+
+Epoch: 1101
+val_loss imporved from 1.891108389334041e-05 to 1.890018670878551e-05.
+
+time = 29.7 s - train_loss = 1.890018670878551e-05. 
+
+Epoch: 1102
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.6 s - train_loss = 1.891489225625791e-05. 
+
+Epoch: 1103
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.6 s - train_loss = 1.904393042512483e-05. 
+
+Epoch: 1104
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.5 s - train_loss = 1.8957092068288965e-05. 
+
+Epoch: 1105
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.7 s - train_loss = 1.8914333581245128e-05. 
+
+Epoch: 1106
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.8 s - train_loss = 1.9012454402895462e-05. 
+
+Epoch: 1107
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.7 s - train_loss = 1.8971004274490018e-05. 
+
+Epoch: 1108
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.6 s - train_loss = 1.896235304324146e-05. 
+
+Epoch: 1109
+val_loss did not improve from 1.890018670878551e-05.
+
+time = 29.5 s - train_loss = 1.9014013949593374e-05. 
+
+Epoch: 1110
+val_loss imporved from 1.890018670878551e-05 to 1.8833022143592804e-05.
+
+time = 29.6 s - train_loss = 1.8833022143592804e-05. 
+
+Epoch: 1111
+val_loss did not improve from 1.8833022143592804e-05.
+
+time = 29.6 s - train_loss = 1.8970673266078372e-05. 
+
+Epoch: 1112
+val_loss did not improve from 1.8833022143592804e-05.
+
+time = 29.7 s - train_loss = 1.8852681849468436e-05. 
+
+Epoch: 1113
+val_loss did not improve from 1.8833022143592804e-05.
+
+time = 29.6 s - train_loss = 1.8953317739062217e-05. 
+
+Epoch: 1114
+val_loss did not improve from 1.8833022143592804e-05.
+
+time = 29.7 s - train_loss = 1.8969898671418217e-05. 
+
+Epoch: 1115
+val_loss did not improve from 1.8833022143592804e-05.
+
+time = 29.7 s - train_loss = 1.893422367682251e-05. 
+
+Epoch: 1116
+val_loss imporved from 1.8833022143592804e-05 to 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.877348998288506e-05. 
+
+Epoch: 1117
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.889119603017351e-05. 
+
+Epoch: 1118
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.5 s - train_loss = 1.8781432821789143e-05. 
+
+Epoch: 1119
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.7 s - train_loss = 1.892802517227907e-05. 
+
+Epoch: 1120
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.888109792190008e-05. 
+
+Epoch: 1121
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.8859450525962382e-05. 
+
+Epoch: 1122
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.5 s - train_loss = 1.8836296375029076e-05. 
+
+Epoch: 1123
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.7 s - train_loss = 1.8910049358950965e-05. 
+
+Epoch: 1124
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.7 s - train_loss = 1.8910630401136545e-05. 
+
+Epoch: 1125
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.892925992169846e-05. 
+
+Epoch: 1126
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.882633049721497e-05. 
+
+Epoch: 1127
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.7 s - train_loss = 1.8818942678877688e-05. 
+
+Epoch: 1128
+val_loss did not improve from 1.877348998288506e-05.
+
+time = 29.6 s - train_loss = 1.8896661030881752e-05. 
+
+Epoch: 1129
+val_loss imporved from 1.877348998288506e-05 to 1.8762133150728224e-05.
+
+time = 29.6 s - train_loss = 1.8762133150728224e-05. 
+
+Epoch: 1130
+val_loss did not improve from 1.8762133150728224e-05.
+
+time = 29.6 s - train_loss = 1.8870331679089783e-05. 
+
+Epoch: 1131
+val_loss did not improve from 1.8762133150728224e-05.
+
+time = 29.6 s - train_loss = 1.895477809003576e-05. 
+
+Epoch: 1132
+val_loss did not improve from 1.8762133150728224e-05.
+
+time = 29.7 s - train_loss = 1.8834688135371876e-05. 
+
+Epoch: 1133
+val_loss imporved from 1.8762133150728224e-05 to 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.868627500150644e-05. 
+
+Epoch: 1134
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8793081253559515e-05. 
+
+Epoch: 1135
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8843956030787392e-05. 
+
+Epoch: 1136
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.7 s - train_loss = 1.8889761431168773e-05. 
+
+Epoch: 1137
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.7 s - train_loss = 1.8810162543855682e-05. 
+
+Epoch: 1138
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8774491671753712e-05. 
+
+Epoch: 1139
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8734793168866992e-05. 
+
+Epoch: 1140
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.884038410197462e-05. 
+
+Epoch: 1141
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8726940807268533e-05. 
+
+Epoch: 1142
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.87845450181307e-05. 
+
+Epoch: 1143
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8837358640298323e-05. 
+
+Epoch: 1144
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.880627035732099e-05. 
+
+Epoch: 1145
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8860472507139876e-05. 
+
+Epoch: 1146
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8833087245299558e-05. 
+
+Epoch: 1147
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.7 s - train_loss = 1.8812329390281895e-05. 
+
+Epoch: 1148
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8690329287579506e-05. 
+
+Epoch: 1149
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.6 s - train_loss = 1.8717146199467145e-05. 
+
+Epoch: 1150
+val_loss did not improve from 1.868627500150644e-05.
+
+time = 29.5 s - train_loss = 1.8777827627225958e-05. 
+
+Epoch: 1151
+val_loss imporved from 1.868627500150644e-05 to 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.8667019001550014e-05. 
+
+Epoch: 1152
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.867632575221324e-05. 
+
+Epoch: 1153
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.875156436327114e-05. 
+
+Epoch: 1154
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.8786212453479267e-05. 
+
+Epoch: 1155
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.8775705124208296e-05. 
+
+Epoch: 1156
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.8794972346385646e-05. 
+
+Epoch: 1157
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.7 s - train_loss = 1.8684097165933156e-05. 
+
+Epoch: 1158
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.8833989105407663e-05. 
+
+Epoch: 1159
+val_loss did not improve from 1.8667019001550014e-05.
+
+time = 29.6 s - train_loss = 1.8719312108847808e-05. 
+
+Epoch: 1160
+val_loss imporved from 1.8667019001550014e-05 to 1.8611124337351164e-05.
+
+time = 29.7 s - train_loss = 1.8611124337351164e-05. 
+
+Epoch: 1161
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8656386202069764e-05. 
+
+Epoch: 1162
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.7 s - train_loss = 1.8709194046475956e-05. 
+
+Epoch: 1163
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8694718135648754e-05. 
+
+Epoch: 1164
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.7 s - train_loss = 1.86977045558716e-05. 
+
+Epoch: 1165
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8731040912778977e-05. 
+
+Epoch: 1166
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8732473213979557e-05. 
+
+Epoch: 1167
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8745584903971422e-05. 
+
+Epoch: 1168
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8616900210917036e-05. 
+
+Epoch: 1169
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8624910669580493e-05. 
+
+Epoch: 1170
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8773049431030085e-05. 
+
+Epoch: 1171
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.7 s - train_loss = 1.876224179164374e-05. 
+
+Epoch: 1172
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.870764379898136e-05. 
+
+Epoch: 1173
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8637168698408315e-05. 
+
+Epoch: 1174
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8675646297602438e-05. 
+
+Epoch: 1175
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8643504804876656e-05. 
+
+Epoch: 1176
+val_loss did not improve from 1.8611124337351164e-05.
+
+time = 29.6 s - train_loss = 1.8696890850880872e-05. 
+
+Epoch: 1177
+val_loss imporved from 1.8611124337351164e-05 to 1.856167483538229e-05.
+
+time = 29.7 s - train_loss = 1.856167483538229e-05. 
+
+Epoch: 1178
+val_loss did not improve from 1.856167483538229e-05.
+
+time = 29.7 s - train_loss = 1.862345455209578e-05. 
+
+Epoch: 1179
+val_loss imporved from 1.856167483538229e-05 to 1.8550375555841176e-05.
+
+time = 29.6 s - train_loss = 1.8550375555841176e-05. 
+
+Epoch: 1180
+val_loss did not improve from 1.8550375555841176e-05.
+
+time = 29.7 s - train_loss = 1.8613668269242673e-05. 
+
+Epoch: 1181
+val_loss did not improve from 1.8550375555841176e-05.
+
+time = 29.6 s - train_loss = 1.8625067475397352e-05. 
+
+Epoch: 1182
+val_loss did not improve from 1.8550375555841176e-05.
+
+time = 29.7 s - train_loss = 1.8622028944643204e-05. 
+
+Epoch: 1183
+val_loss imporved from 1.8550375555841176e-05 to 1.8508945130568077e-05.
+
+time = 29.6 s - train_loss = 1.8508945130568077e-05. 
+
+Epoch: 1184
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8637874872909423e-05. 
+
+Epoch: 1185
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.6 s - train_loss = 1.8688097181900014e-05. 
+
+Epoch: 1186
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8653438839925877e-05. 
+
+Epoch: 1187
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8649789662806932e-05. 
+
+Epoch: 1188
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.6 s - train_loss = 1.867313626259746e-05. 
+
+Epoch: 1189
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.5 s - train_loss = 1.855758309994652e-05. 
+
+Epoch: 1190
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.872365099804374e-05. 
+
+Epoch: 1191
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.6 s - train_loss = 1.858719129382522e-05. 
+
+Epoch: 1192
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.6 s - train_loss = 1.8641703788760468e-05. 
+
+Epoch: 1193
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8578168326567925e-05. 
+
+Epoch: 1194
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8514573760678514e-05. 
+
+Epoch: 1195
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.6 s - train_loss = 1.8648021167301525e-05. 
+
+Epoch: 1196
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8620426618601622e-05. 
+
+Epoch: 1197
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8618511640455897e-05. 
+
+Epoch: 1198
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.7 s - train_loss = 1.8687771623964715e-05. 
+
+Epoch: 1199
+val_loss did not improve from 1.8508945130568077e-05.
+
+time = 29.5 s - train_loss = 1.8568963946785273e-05. 
+
+Epoch: 1200
+val_loss imporved from 1.8508945130568077e-05 to 1.8477661511752866e-05.
+
+time = 29.7 s - train_loss = 1.8477661511752866e-05. 
+
+Epoch: 1201
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.7 s - train_loss = 1.8614357313132402e-05. 
+
+Epoch: 1202
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.8684639970073384e-05. 
+
+Epoch: 1203
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.8565860349950465e-05. 
+
+Epoch: 1204
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.7 s - train_loss = 1.8627993554668527e-05. 
+
+Epoch: 1205
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.8561172602876013e-05. 
+
+Epoch: 1206
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.7 s - train_loss = 1.8598173710415722e-05. 
+
+Epoch: 1207
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.8607383317259498e-05. 
+
+Epoch: 1208
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.861716441817787e-05. 
+
+Epoch: 1209
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.8588239608072758e-05. 
+
+Epoch: 1210
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.854596986581111e-05. 
+
+Epoch: 1211
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.7 s - train_loss = 1.8591737411325618e-05. 
+
+Epoch: 1212
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.8607486767690015e-05. 
+
+Epoch: 1213
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.7 s - train_loss = 1.8597624739318727e-05. 
+
+Epoch: 1214
+val_loss did not improve from 1.8477661511752866e-05.
+
+time = 29.6 s - train_loss = 1.852906435880012e-05. 
+
+Epoch: 1215
+val_loss imporved from 1.8477661511752866e-05 to 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.8460787954068376e-05. 
+
+Epoch: 1216
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.8549088855337064e-05. 
+
+Epoch: 1217
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.8531195147814865e-05. 
+
+Epoch: 1218
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.857112515209593e-05. 
+
+Epoch: 1219
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.8541554923445842e-05. 
+
+Epoch: 1220
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.8664385948044668e-05. 
+
+Epoch: 1221
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.862619857187165e-05. 
+
+Epoch: 1222
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.7 s - train_loss = 1.8666844276122447e-05. 
+
+Epoch: 1223
+val_loss did not improve from 1.8460787954068376e-05.
+
+time = 29.6 s - train_loss = 1.859993747778372e-05. 
+
+Epoch: 1224
+val_loss imporved from 1.8460787954068376e-05 to 1.8413877340918896e-05.
+
+time = 29.8 s - train_loss = 1.8413877340918896e-05. 
+
+Epoch: 1225
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8588305646666727e-05. 
+
+Epoch: 1226
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8581018364386794e-05. 
+
+Epoch: 1227
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8596878708239045e-05. 
+
+Epoch: 1228
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8529126097561546e-05. 
+
+Epoch: 1229
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8416071852356213e-05. 
+
+Epoch: 1230
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.857000308517497e-05. 
+
+Epoch: 1231
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.850669919816238e-05. 
+
+Epoch: 1232
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.856024511794469e-05. 
+
+Epoch: 1233
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8552839852636273e-05. 
+
+Epoch: 1234
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.846425906038997e-05. 
+
+Epoch: 1235
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.848860131462147e-05. 
+
+Epoch: 1236
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8682382311931243e-05. 
+
+Epoch: 1237
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8560448024882617e-05. 
+
+Epoch: 1238
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8477526415055185e-05. 
+
+Epoch: 1239
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8504352920971894e-05. 
+
+Epoch: 1240
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8543213652726047e-05. 
+
+Epoch: 1241
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.859386340110909e-05. 
+
+Epoch: 1242
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8492448599130396e-05. 
+
+Epoch: 1243
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.9 s - train_loss = 1.8491402883212946e-05. 
+
+Epoch: 1244
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.858582767657515e-05. 
+
+Epoch: 1245
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.855091664882033e-05. 
+
+Epoch: 1246
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.857551858753992e-05. 
+
+Epoch: 1247
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.861098485690169e-05. 
+
+Epoch: 1248
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8621064675369674e-05. 
+
+Epoch: 1249
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.842381133955033e-05. 
+
+Epoch: 1250
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8449332997028514e-05. 
+
+Epoch: 1251
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8595017599287164e-05. 
+
+Epoch: 1252
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.857014123510843e-05. 
+
+Epoch: 1253
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8524451379347037e-05. 
+
+Epoch: 1254
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8601748109462972e-05. 
+
+Epoch: 1255
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8600349242643006e-05. 
+
+Epoch: 1256
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.855107351306399e-05. 
+
+Epoch: 1257
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8651078491851658e-05. 
+
+Epoch: 1258
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.853671774864029e-05. 
+
+Epoch: 1259
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.8 s - train_loss = 1.8451728430317567e-05. 
+
+Epoch: 1260
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8682984869113355e-05. 
+
+Epoch: 1261
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8580848537785235e-05. 
+
+Epoch: 1262
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8604566673286657e-05. 
+
+Epoch: 1263
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8643658020532852e-05. 
+
+Epoch: 1264
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8527902840963087e-05. 
+
+Epoch: 1265
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8529950147579493e-05. 
+
+Epoch: 1266
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.841490237897395e-05. 
+
+Epoch: 1267
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8580156541046156e-05. 
+
+Epoch: 1268
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8638227859140197e-05. 
+
+Epoch: 1269
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.856276977105027e-05. 
+
+Epoch: 1270
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8646882087889487e-05. 
+
+Epoch: 1271
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8573877657216698e-05. 
+
+Epoch: 1272
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.858255410920935e-05. 
+
+Epoch: 1273
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8656536758277313e-05. 
+
+Epoch: 1274
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.866183211621466e-05. 
+
+Epoch: 1275
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8678697855158138e-05. 
+
+Epoch: 1276
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8613337623108866e-05. 
+
+Epoch: 1277
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.863793569837603e-05. 
+
+Epoch: 1278
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8600891998173405e-05. 
+
+Epoch: 1279
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8487940352330692e-05. 
+
+Epoch: 1280
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8716284269881565e-05. 
+
+Epoch: 1281
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.875349638953404e-05. 
+
+Epoch: 1282
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8744708684837033e-05. 
+
+Epoch: 1283
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8690405796604556e-05. 
+
+Epoch: 1284
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8611708622620047e-05. 
+
+Epoch: 1285
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8642898276730474e-05. 
+
+Epoch: 1286
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.863025295168094e-05. 
+
+Epoch: 1287
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.866057468104598e-05. 
+
+Epoch: 1288
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8659515683719134e-05. 
+
+Epoch: 1289
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8678124914347278e-05. 
+
+Epoch: 1290
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8764180196244917e-05. 
+
+Epoch: 1291
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.863618651601595e-05. 
+
+Epoch: 1292
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.865790260445442e-05. 
+
+Epoch: 1293
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.866591025673137e-05. 
+
+Epoch: 1294
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8645950046776057e-05. 
+
+Epoch: 1295
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.871896365156497e-05. 
+
+Epoch: 1296
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.869369447086103e-05. 
+
+Epoch: 1297
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8716472676522518e-05. 
+
+Epoch: 1298
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8684980274363238e-05. 
+
+Epoch: 1299
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8801730265381327e-05. 
+
+Epoch: 1300
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.851259646536187e-05. 
+
+Epoch: 1301
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.861874690649962e-05. 
+
+Epoch: 1302
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.867556188655047e-05. 
+
+Epoch: 1303
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8555920144144365e-05. 
+
+Epoch: 1304
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8677717964869757e-05. 
+
+Epoch: 1305
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8562828668749118e-05. 
+
+Epoch: 1306
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.864510581671106e-05. 
+
+Epoch: 1307
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.881028817351154e-05. 
+
+Epoch: 1308
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8716640940959258e-05. 
+
+Epoch: 1309
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8661839900912955e-05. 
+
+Epoch: 1310
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.869837388332857e-05. 
+
+Epoch: 1311
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8743147750938027e-05. 
+
+Epoch: 1312
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.86539606500023e-05. 
+
+Epoch: 1313
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8693737137784567e-05. 
+
+Epoch: 1314
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8730219717599033e-05. 
+
+Epoch: 1315
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8612336082128104e-05. 
+
+Epoch: 1316
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8603329764134027e-05. 
+
+Epoch: 1317
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8741533373299956e-05. 
+
+Epoch: 1318
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8743371242635476e-05. 
+
+Epoch: 1319
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8726572663953875e-05. 
+
+Epoch: 1320
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8769025583736958e-05. 
+
+Epoch: 1321
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.884702447923042e-05. 
+
+Epoch: 1322
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8711853391883413e-05. 
+
+Epoch: 1323
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8710822040725426e-05. 
+
+Epoch: 1324
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8618345265785743e-05. 
+
+Epoch: 1325
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8698852035442573e-05. 
+
+Epoch: 1326
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8702545961315895e-05. 
+
+Epoch: 1327
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8699890659866424e-05. 
+
+Epoch: 1328
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.869123198022994e-05. 
+
+Epoch: 1329
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8715357266615092e-05. 
+
+Epoch: 1330
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8744194170193825e-05. 
+
+Epoch: 1331
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8838324549164058e-05. 
+
+Epoch: 1332
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8748573295505033e-05. 
+
+Epoch: 1333
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.865717747101057e-05. 
+
+Epoch: 1334
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8611290873367956e-05. 
+
+Epoch: 1335
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.860707201910542e-05. 
+
+Epoch: 1336
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.858893994337721e-05. 
+
+Epoch: 1337
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.862806635509593e-05. 
+
+Epoch: 1338
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.88767674681725e-05. 
+
+Epoch: 1339
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8772218463848915e-05. 
+
+Epoch: 1340
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8683535347590145e-05. 
+
+Epoch: 1341
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8712595654988617e-05. 
+
+Epoch: 1342
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8729012732152128e-05. 
+
+Epoch: 1343
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8649622200511586e-05. 
+
+Epoch: 1344
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8757072053386946e-05. 
+
+Epoch: 1345
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8689724911407987e-05. 
+
+Epoch: 1346
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8699466138172243e-05. 
+
+Epoch: 1347
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.874294566799217e-05. 
+
+Epoch: 1348
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8681065771640653e-05. 
+
+Epoch: 1349
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8672760466163565e-05. 
+
+Epoch: 1350
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8598730255621185e-05. 
+
+Epoch: 1351
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8542515859224948e-05. 
+
+Epoch: 1352
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8629325539426857e-05. 
+
+Epoch: 1353
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8615495641704627e-05. 
+
+Epoch: 1354
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.86494841395642e-05. 
+
+Epoch: 1355
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8680903205479562e-05. 
+
+Epoch: 1356
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8700947486693034e-05. 
+
+Epoch: 1357
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8721164198538334e-05. 
+
+Epoch: 1358
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8649642099508306e-05. 
+
+Epoch: 1359
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8664122516482744e-05. 
+
+Epoch: 1360
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8696511501654128e-05. 
+
+Epoch: 1361
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.866993076213815e-05. 
+
+Epoch: 1362
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.86996438025154e-05. 
+
+Epoch: 1363
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.855072283350432e-05. 
+
+Epoch: 1364
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8686258106185642e-05. 
+
+Epoch: 1365
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8646926692081074e-05. 
+
+Epoch: 1366
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8677078456140284e-05. 
+
+Epoch: 1367
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8723887295977608e-05. 
+
+Epoch: 1368
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8592884158582348e-05. 
+
+Epoch: 1369
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.871714883484838e-05. 
+
+Epoch: 1370
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8730696208586833e-05. 
+
+Epoch: 1371
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.8678535150926123e-05. 
+
+Epoch: 1372
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.865986276773464e-05. 
+
+Epoch: 1373
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.878158447417215e-05. 
+
+Epoch: 1374
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8523771904310604e-05. 
+
+Epoch: 1375
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.857955978933466e-05. 
+
+Epoch: 1376
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8636589517805115e-05. 
+
+Epoch: 1377
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8638549233779882e-05. 
+
+Epoch: 1378
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8530656897956688e-05. 
+
+Epoch: 1379
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.858700493022224e-05. 
+
+Epoch: 1380
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8613973492909503e-05. 
+
+Epoch: 1381
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8601164073893452e-05. 
+
+Epoch: 1382
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8732334611040464e-05. 
+
+Epoch: 1383
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8558118226583425e-05. 
+
+Epoch: 1384
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8533463980676467e-05. 
+
+Epoch: 1385
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.856211022366977e-05. 
+
+Epoch: 1386
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8660356043206488e-05. 
+
+Epoch: 1387
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8625995205594565e-05. 
+
+Epoch: 1388
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8684871337355264e-05. 
+
+Epoch: 1389
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.864578441059533e-05. 
+
+Epoch: 1390
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.856700950568977e-05. 
+
+Epoch: 1391
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8647087383676046e-05. 
+
+Epoch: 1392
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.872877984704013e-05. 
+
+Epoch: 1393
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8628926909039105e-05. 
+
+Epoch: 1394
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8592687077223997e-05. 
+
+Epoch: 1395
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8622428081238225e-05. 
+
+Epoch: 1396
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8624410917600673e-05. 
+
+Epoch: 1397
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.858359159011462e-05. 
+
+Epoch: 1398
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.5 s - train_loss = 1.861764276631458e-05. 
+
+Epoch: 1399
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8513845860749387e-05. 
+
+Epoch: 1400
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.851404425853165e-05. 
+
+Epoch: 1401
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8562138342636533e-05. 
+
+Epoch: 1402
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8542876652479707e-05. 
+
+Epoch: 1403
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8598889167652973e-05. 
+
+Epoch: 1404
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.7 s - train_loss = 1.8474049471278653e-05. 
+
+Epoch: 1405
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8515003935521954e-05. 
+
+Epoch: 1406
+val_loss did not improve from 1.8413877340918896e-05.
+
+time = 29.6 s - train_loss = 1.8557013946427403e-05. 
+
+Epoch: 1407
+val_loss imporved from 1.8413877340918896e-05 to 1.8403175802703114e-05.
+
+time = 29.5 s - train_loss = 1.8403175802703114e-05. 
+
+Epoch: 1408
+val_loss did not improve from 1.8403175802703114e-05.
+
+time = 29.8 s - train_loss = 1.8463083849780857e-05. 
+
+Epoch: 1409
+val_loss did not improve from 1.8403175802703114e-05.
+
+time = 29.7 s - train_loss = 1.8518669988327758e-05. 
+
+Epoch: 1410
+val_loss did not improve from 1.8403175802703114e-05.
+
+time = 29.7 s - train_loss = 1.8572594918018024e-05. 
+
+Epoch: 1411
+val_loss imporved from 1.8403175802703114e-05 to 1.8380466243940994e-05.
+
+time = 29.7 s - train_loss = 1.8380466243940994e-05. 
+
+Epoch: 1412
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.6 s - train_loss = 1.8463458787704956e-05. 
+
+Epoch: 1413
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.6 s - train_loss = 1.8428708163211218e-05. 
+
+Epoch: 1414
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.7 s - train_loss = 1.847611322432702e-05. 
+
+Epoch: 1415
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.8 s - train_loss = 1.8454329441710216e-05. 
+
+Epoch: 1416
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.7 s - train_loss = 1.83974496959463e-05. 
+
+Epoch: 1417
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.6 s - train_loss = 1.8407585750764433e-05. 
+
+Epoch: 1418
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.7 s - train_loss = 1.84837002178872e-05. 
+
+Epoch: 1419
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.7 s - train_loss = 1.843313825474346e-05. 
+
+Epoch: 1420
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.6 s - train_loss = 1.848271468854166e-05. 
+
+Epoch: 1421
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 29.6 s - train_loss = 1.8423043543774746e-05. 
+
+Epoch: 1422
+val_loss did not improve from 1.8380466243940994e-05.
+
+time = 27.7 s - train_loss = 1.8407501688531554e-05. 
+
+Epoch: 1423
+val_loss imporved from 1.8380466243940994e-05 to 1.836437340116365e-05.
+
+time = 29.5 s - train_loss = 1.836437340116365e-05. 
+
+Epoch: 1424
+val_loss did not improve from 1.836437340116365e-05.
+
+time = 29.6 s - train_loss = 1.8392650283538103e-05. 
+
+Epoch: 1425
+val_loss did not improve from 1.836437340116365e-05.
+
+time = 29.6 s - train_loss = 1.8452530193756864e-05. 
+
+Epoch: 1426
+val_loss did not improve from 1.836437340116365e-05.
+
+time = 29.6 s - train_loss = 1.8410029088805144e-05. 
+
+Epoch: 1427
+val_loss did not improve from 1.836437340116365e-05.
+
+time = 29.7 s - train_loss = 1.8400458805243536e-05. 
+
+Epoch: 1428
+val_loss imporved from 1.836437340116365e-05 to 1.8347978479474747e-05.
+
+time = 29.7 s - train_loss = 1.8347978479474747e-05. 
+
+Epoch: 1429
+val_loss did not improve from 1.8347978479474747e-05.
+
+time = 29.8 s - train_loss = 1.8422087649009362e-05. 
+
+Epoch: 1430
+val_loss did not improve from 1.8347978479474747e-05.
+
+time = 29.6 s - train_loss = 1.8459077534486485e-05. 
+
+Epoch: 1431
+val_loss did not improve from 1.8347978479474747e-05.
+
+time = 29.6 s - train_loss = 1.8427349435286863e-05. 
+
+Epoch: 1432
+val_loss did not improve from 1.8347978479474747e-05.
+
+time = 29.6 s - train_loss = 1.8427010414169898e-05. 
+
+Epoch: 1433
+val_loss did not improve from 1.8347978479474747e-05.
+
+time = 29.7 s - train_loss = 1.84544497529438e-05. 
+
+Epoch: 1434
+val_loss imporved from 1.8347978479474747e-05 to 1.833596213271342e-05.
+
+time = 29.7 s - train_loss = 1.833596213271342e-05. 
+
+Epoch: 1435
+val_loss did not improve from 1.833596213271342e-05.
+
+time = 29.6 s - train_loss = 1.8417833427056623e-05. 
+
+Epoch: 1436
+val_loss did not improve from 1.833596213271342e-05.
+
+time = 29.7 s - train_loss = 1.8336431855692596e-05. 
+
+Epoch: 1437
+val_loss did not improve from 1.833596213271342e-05.
+
+time = 29.7 s - train_loss = 1.839776271191166e-05. 
+
+Epoch: 1438
+val_loss did not improve from 1.833596213271342e-05.
+
+time = 29.6 s - train_loss = 1.840997776822319e-05. 
+
+Epoch: 1439
+val_loss imporved from 1.833596213271342e-05 to 1.8289262402314386e-05.
+
+time = 29.6 s - train_loss = 1.8289262402314386e-05. 
+
+Epoch: 1440
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.7 s - train_loss = 1.8360715530801734e-05. 
+
+Epoch: 1441/opt/anaconda3/lib/python3.8/site-packages/scipy/signal/spectral.py:1812: UserWarning: Input data is complex, switching to return_onesided=False
+  warnings.warn('Input data is complex, switching to '
+
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.5 s - train_loss = 1.8464972786198848e-05. 
+
+Epoch: 1442
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.6 s - train_loss = 1.8349617731412897e-05. 
+
+Epoch: 1443
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.6 s - train_loss = 1.834429029367836e-05. 
+
+Epoch: 1444
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.6 s - train_loss = 1.829842028243869e-05. 
+
+Epoch: 1445
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.7 s - train_loss = 1.8301948839722873e-05. 
+
+Epoch: 1446
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.5 s - train_loss = 1.833224042766714e-05. 
+
+Epoch: 1447
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.6 s - train_loss = 1.832786699255633e-05. 
+
+Epoch: 1448
+val_loss did not improve from 1.8289262402314386e-05.
+
+time = 29.6 s - train_loss = 1.8373540552940417e-05. 
+
+Epoch: 1449
+val_loss imporved from 1.8289262402314386e-05 to 1.8233114088846816e-05.
+
+time = 29.6 s - train_loss = 1.8233114088846816e-05. 
+
+Epoch: 1450
+val_loss did not improve from 1.8233114088846816e-05.
+
+time = 29.7 s - train_loss = 1.8241910237245766e-05. 
+
+Epoch: 1451
+val_loss did not improve from 1.8233114088846816e-05.
+
+time = 29.6 s - train_loss = 1.8398755190563075e-05. 
+
+Epoch: 1452
+val_loss did not improve from 1.8233114088846816e-05.
+
+time = 29.7 s - train_loss = 1.8379381520296134e-05. 
+
+Epoch: 1453
+val_loss did not improve from 1.8233114088846816e-05.
+
+time = 29.6 s - train_loss = 1.8291876264911504e-05. 
+
+Epoch: 1454
+val_loss did not improve from 1.8233114088846816e-05.
+
+time = 29.7 s - train_loss = 1.8401687109980938e-05. 
+
+Epoch: 1455
+val_loss imporved from 1.8233114088846816e-05 to 1.8226386273745752e-05.
+
+time = 29.6 s - train_loss = 1.8226386273745752e-05. 
+
+Epoch: 1456
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.5 s - train_loss = 1.829418465255905e-05. 
+
+Epoch: 1457
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.6 s - train_loss = 1.8310511572576807e-05. 
+
+Epoch: 1458
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.6 s - train_loss = 1.829798578179524e-05. 
+
+Epoch: 1459
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.7 s - train_loss = 1.8290505057877484e-05. 
+
+Epoch: 1460
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.7 s - train_loss = 1.833177606902832e-05. 
+
+Epoch: 1461
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.5 s - train_loss = 1.829695171957035e-05. 
+
+Epoch: 1462
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.7 s - train_loss = 1.826035106789966e-05. 
+
+Epoch: 1463
+val_loss did not improve from 1.8226386273745752e-05.
+
+time = 29.7 s - train_loss = 1.837498051406878e-05. 
+
+Epoch: 1464
+val_loss imporved from 1.8226386273745752e-05 to 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.8210335955229216e-05. 
+
+Epoch: 1465
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.8252304239265102e-05. 
+
+Epoch: 1466
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.8212235682238158e-05. 
+
+Epoch: 1467
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.828159533601097e-05. 
+
+Epoch: 1468
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.8308052869554134e-05. 
+
+Epoch: 1469
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.834326534999288e-05. 
+
+Epoch: 1470
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.829861382826306e-05. 
+
+Epoch: 1471
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.8348410813893088e-05. 
+
+Epoch: 1472
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.8299258479026037e-05. 
+
+Epoch: 1473
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.6 s - train_loss = 1.823229735294599e-05. 
+
+Epoch: 1474
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.5 s - train_loss = 1.826128550372024e-05. 
+
+Epoch: 1475
+val_loss did not improve from 1.8210335955229216e-05.
+
+time = 29.7 s - train_loss = 1.8243643014500164e-05. 
+
+Epoch: 1476
+val_loss imporved from 1.8210335955229216e-05 to 1.8202470355131013e-05.
+
+time = 29.6 s - train_loss = 1.8202470355131013e-05. 
+
+Epoch: 1477
+val_loss did not improve from 1.8202470355131013e-05.
+
+time = 29.6 s - train_loss = 1.8322094190435137e-05. 
+
+Epoch: 1478
+val_loss imporved from 1.8202470355131013e-05 to 1.815244998024836e-05.
+
+time = 29.7 s - train_loss = 1.815244998024836e-05. 
+
+Epoch: 1479
+val_loss did not improve from 1.815244998024836e-05.
+
+time = 29.6 s - train_loss = 1.8332757899593175e-05. 
+
+Epoch: 1480
+val_loss imporved from 1.815244998024836e-05 to 1.8104864714094418e-05.
+
+time = 29.7 s - train_loss = 1.8104864714094418e-05. 
+
+Epoch: 1481
+val_loss did not improve from 1.8104864714094418e-05.
+
+time = 29.7 s - train_loss = 1.8174204910317453e-05. 
+
+Epoch: 1482
+val_loss did not improve from 1.8104864714094418e-05.
+
+time = 29.6 s - train_loss = 1.814073249591611e-05. 
+
+Epoch: 1483
+val_loss did not improve from 1.8104864714094418e-05.
+
+time = 29.6 s - train_loss = 1.8124426581995867e-05. 
+
+Epoch: 1484
+val_loss did not improve from 1.8104864714094418e-05.
+
+time = 29.7 s - train_loss = 1.8122688975900956e-05. 
+
+Epoch: 1485
+val_loss did not improve from 1.8104864714094418e-05.
+
+time = 29.7 s - train_loss = 1.823622947871181e-05. 
+
+Epoch: 1486
+val_loss imporved from 1.8104864714094418e-05 to 1.8081651933845533e-05.
+
+time = 29.6 s - train_loss = 1.8081651933845533e-05. 
+
+Epoch: 1487
+val_loss did not improve from 1.8081651933845533e-05.
+
+time = 29.6 s - train_loss = 1.8222489854197244e-05. 
+
+Epoch: 1488
+val_loss did not improve from 1.8081651933845533e-05.
+
+time = 29.5 s - train_loss = 1.8297631239258158e-05. 
+
+Epoch: 1489
+val_loss did not improve from 1.8081651933845533e-05.
+
+time = 29.5 s - train_loss = 1.8119819906462104e-05. 
+
+Epoch: 1490
+val_loss did not improve from 1.8081651933845533e-05.
+
+time = 29.6 s - train_loss = 1.8111385624692667e-05. 
+
+Epoch: 1491
+val_loss did not improve from 1.8081651933845533e-05.
+
+time = 29.6 s - train_loss = 1.8114134731717017e-05. 
+
+Epoch: 1492
+val_loss imporved from 1.8081651933845533e-05 to 1.80701001946307e-05.
+
+time = 29.6 s - train_loss = 1.80701001946307e-05. 
+
+Epoch: 1493
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.6 s - train_loss = 1.8262214404511874e-05. 
+
+Epoch: 1494
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.6 s - train_loss = 1.8147263567394236e-05. 
+
+Epoch: 1495
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.6 s - train_loss = 1.8159049810887647e-05. 
+
+Epoch: 1496
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.7 s - train_loss = 1.8098869241892768e-05. 
+
+Epoch: 1497
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.5 s - train_loss = 1.8165894090553723e-05. 
+
+Epoch: 1498
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.8 s - train_loss = 1.812770222834242e-05. 
+
+Epoch: 1499
+val_loss did not improve from 1.80701001946307e-05.
+
+time = 29.6 s - train_loss = 1.8162718772524782e-05. 
+
+Epoch: 1500
+val_loss imporved from 1.80701001946307e-05 to 1.8041044924920848e-05.
+
+time = 29.7 s - train_loss = 1.8041044924920848e-05. 
+
+DataTrain
+NMSE =  -28.16355456937154
+ACEPR =  -44.66523134437984
+DataTest1
+NMSE =  -29.09432085212252
+ACEPR =  -43.69558470872355
+For piece1
+NMSE =  -34.200033702235885
+ACEPR =  -47.47907729525201
+For piece2
+NMSE =  -20.160909583369847
+ACEPR =  -41.95046529876866
+DataTest2
+NMSE =  -25.88516511014099
+ACEPR =  -43.72865498464576
+For piece1
+NMSE =  -18.289649845671164
+ACEPR =  -40.35467524505854
+For piece2
+NMSE =  -29.01998943825749
+ACEPR =  -47.67448965299825
+DataTest3
+NMSE =  -31.521323850233305
+ACEPR =  -47.15844558102728
+DataTest4
+NMSE =  -19.65509457902727
+ACEPR =  -42.65265215022648
